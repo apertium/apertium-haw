@@ -114,12 +114,12 @@
 	<!-- Verbs -->
 	<pardef n="lohe/__vblex">
 	  <e><p><l></l><r><s n="vblex"/></r></p></e>
-      <e><p><l> nei au</l><r><s n="vblex"/><s n="pres"/></r></p></e>
-	  <e><p><l> au</l><r><s n="vblex"/><s n="past"/></r></p></e>
-	  <e><p><l> au</l><r><s n="vblex"/><s n="perf"/></r></p></e>
-	  <e><p><l> e au</l><r><s n="vblex"/><s n="pmp"/></r></p></e>
-	  <e><p><l> au</l><r><s n="vblex"/><s n="fut"/></r></p></e>
-	  <e><p><l> oe</l><r><s n="vblex"/><s n="imp"/></r></p></e>
+      <e><p><l> nei</l><r><s n="vblex"/><s n="pres"/></r></p></e>
+	  <e><p><l></l><r><s n="vblex"/><s n="past"/></r></p></e>
+	  <e><p><l></l><r><s n="vblex"/><s n="perf"/></r></p></e>
+	  <e><p><l> e</l><r><s n="vblex"/><s n="pmp"/></r></p></e>
+	  <e><p><l></l><r><s n="vblex"/><s n="fut"/></r></p></e>
+	  <e><p><l></l><r><s n="vblex"/><s n="imp"/></r></p></e>
     </pardef>
 
 	<!-- Determiners -->
