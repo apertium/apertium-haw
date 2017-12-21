@@ -68,8 +68,12 @@
     <sdef n="pres"            c="Present"/>
     <sdef n="imp"             c="Imperative"/>
     <sdef n="pret"            c="Preterite"/>
-    <sdef n="pp"              c="Perfect participle"/>
+    <sdef n="perf"            c="Pefect"/>
+    <sdef n="past"            c="Past"/>
+    <sdef n="fut"             c="Future"/>	  
+    <sdef n="pp"              c="Past participle"/>
     <sdef n="pprs"            c="Present participle"/>
+    <sdef n="pmp"             c="Pluperfect"/>
     <sdef n="pasv"            c="Passive"/>
     <sdef n="actv"            c="Active voice"/>
 
@@ -108,8 +112,14 @@
     </pardef>	  
 	  
 	<!-- Verbs -->
-	<pardef n="lohe__vblex">
-      <e><p><l></l><r><s n="vblex"/><s n="inf"/></r></p></e>
+	<pardef n="lohe/__vblex">
+	  <e><p><l></l><r><s n="vblex"/></r></p></e>
+      <e><p><l> nei au</l><r><s n="vblex"/><s n="pres"/></r></p></e>
+	  <e><p><l> au</l><r><s n="vblex"/><s n="past"/></r></p></e>
+	  <e><p><l> au</l><r><s n="vblex"/><s n="perf"/></r></p></e>
+	  <e><p><l> e au</l><r><s n="vblex"/><s n="pmp"/></r></p></e>
+	  <e><p><l> au</l><r><s n="vblex"/><s n="fut"/></r></p></e>
+	  <e><p><l> oe</l><r><s n="vblex"/><s n="imp"/></r></p></e>
     </pardef>
 
 	<!-- Determiners -->
@@ -258,41 +268,42 @@
 	  
 	<!-- SECTION: Verbs -->	  
 	  
-    <e lm="aho"><i>aho</i><par n="lohe__vblex"/></e>
-    <e lm="aloha"><i>aloha</i><par n="lohe__vblex"/></e>
-    <e lm="haku"><i>haku</i><par n="lohe__vblex"/></e>
-    <e lm="hali"><i>hali</i><par n="lohe__vblex"/></e>
-    <e lm="hana"><i>hana</i><par n="lohe__vblex"/></e>
-    <e lm="hanai"><i>hanai</i><par n="lohe__vblex"/></e>
-    <e lm="hanau"><i>hanau</i><par n="lohe__vblex"/></e>
-    <e lm="hanu"><i>hanu</i><par n="lohe__vblex"/></e>
-    <e lm="haole"><i>haole</i><par n="lohe__vblex"/></e>
-    <e lm="hele"><i>hele</i><par n="lohe__vblex"/></e>
-    <e lm="helu"><i>helu</i><par n="lohe__vblex"/></e>
-    <e lm="hewa"><i>hewa</i><par n="lohe__vblex"/></e>
-    <e lm="hiamoe"><i>hiamoe</i><par n="lohe__vblex"/></e>
-    <e lm="hiki"><i>hiki</i><par n="lohe__vblex"/></e>
-    <e lm="hiku"><i>hiku</i><par n="lohe__vblex"/></e>
-    <e lm="hili"><i>hili</i><par n="lohe__vblex"/></e>
-    <e lm="hiu"><i>hiu</i><par n="lohe__vblex"/></e>
-    <e lm="holo"><i>holo</i><par n="lohe__vblex"/></e>
-    <e lm="holo"><i>holo</i><par n="lohe__vblex"/></e>
-    <e lm="holoi"><i>holoi</i><par n="lohe__vblex"/></e>
-    <e lm="honua"><i>honua</i><par n="lohe__vblex"/></e>
-    <e lm="huhu"><i>huhu</i><par n="lohe__vblex"/></e>
-    <e lm="iho"><i>iho</i><par n="lohe__vblex"/></e>
-    <e lm="kahi"><i>kahi</i><par n="lohe__vblex"/></e>
-    <e lm="kakau"><i>kakau</i><par n="lohe__vblex"/></e>
-    <e lm="kalua"><i>kalua</i><par n="lohe__vblex"/></e>
-    <e lm="kanu"><i>kanu</i><par n="lohe__vblex"/></e>
-    <e lm="kiki"><i>kiki</i><par n="lohe__vblex"/></e>
-    <e lm="kino"><i>kino</i><par n="lohe__vblex"/></e>
-    <e lm="koa"><i>koa</i><par n="lohe__vblex"/></e>
-    <e lm="koaea"><i>koaea</i><par n="lohe__vblex"/></e>
-    <e lm="komo"><i>komo</i><par n="lohe__vblex"/></e>
-    <e lm="kono"><i>kono</i><par n="lohe__vblex"/></e>
-    <e lm="kua"><i>kua</i><par n="lohe__vblex"/></e>
-    <e lm="makemake"><i>makemake</i><par n="lohe__vblex"/></e>
+    <e lm="aho"><i>aho</i><par n="lohe/__vblex"/></e>
+    <e lm="aloha"><i>aloha</i><par n="lohe/__vblex"/></e>
+    <e lm="haku"><i>haku</i><par n="lohe/__vblex"/></e>
+    <e lm="hali"><i>hali</i><par n="lohe/__vblex"/></e>
+    <e lm="hana"><i>hana</i><par n="lohe/__vblex"/></e>
+    <e lm="hanai"><i>hanai</i><par n="lohe/__vblex"/></e>
+    <e lm="hanau"><i>hanau</i><par n="lohe/__vblex"/></e>
+    <e lm="hanu"><i>hanu</i><par n="lohe/__vblex"/></e>
+    <e lm="haole"><i>haole</i><par n="lohe/__vblex"/></e>
+    <e lm="hele"><i>hele</i><par n="lohe/__vblex"/></e>
+    <e lm="helu"><i>helu</i><par n="lohe/__vblex"/></e>
+    <e lm="hewa"><i>hewa</i><par n="lohe/__vblex"/></e>
+    <e lm="hiamoe"><i>hiamoe</i><par n="lohe/__vblex"/></e>
+    <e lm="hiki"><i>hiki</i><par n="lohe/__vblex"/></e>
+    <e lm="hiku"><i>hiku</i><par n="lohe/__vblex"/></e>
+    <e lm="hili"><i>hili</i><par n="lohe/__vblex"/></e>
+    <e lm="hiu"><i>hiu</i><par n="lohe/__vblex"/></e>
+    <e lm="holo"><i>holo</i><par n="lohe/__vblex"/></e>
+    <e lm="holo"><i>holo</i><par n="lohe/__vblex"/></e>
+    <e lm="holoi"><i>holoi</i><par n="lohe/__vblex"/></e>
+    <e lm="honua"><i>honua</i><par n="lohe/__vblex"/></e>
+    <e lm="huhu"><i>huhu</i><par n="lohe/__vblex"/></e>
+    <e lm="iho"><i>iho</i><par n="lohe/__vblex"/></e>
+    <e lm="kahi"><i>kahi</i><par n="lohe/__vblex"/></e>
+    <e lm="kakau"><i>kakau</i><par n="lohe/__vblex"/></e>
+    <e lm="kalua"><i>kalua</i><par n="lohe/__vblex"/></e>
+    <e lm="kanu"><i>kanu</i><par n="lohe/__vblex"/></e>
+    <e lm="kiki"><i>kiki</i><par n="lohe/__vblex"/></e>
+    <e lm="kino"><i>kino</i><par n="lohe/__vblex"/></e>
+    <e lm="koa"><i>koa</i><par n="lohe/__vblex"/></e>
+    <e lm="koaea"><i>koaea</i><par n="lohe/__vblex"/></e>
+    <e lm="komo"><i>komo</i><par n="lohe/__vblex"/></e>
+    <e lm="kono"><i>kono</i><par n="lohe/__vblex"/></e>
+    <e lm="kua"><i>kua</i><par n="lohe/__vblex"/></e>
+    <e lm="lohe"><i>lohe</i><par n="lohe/__vblex"/></e>	  
+    <e lm="makemake"><i>makemake</i><par n="lohe/__vblex"/></e>
 	  
 	<!-- SECTION: Derterminers -->	 
     <e lm="keia"><i>ke</i><par n="ke/ia__det"/></e>
