@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+
+  <!-- Define the alphabet below. -->
+  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+
+  <sdefs>
+    <!-- Define symbol definitions within <sdef> here. -->
+    <sdef n="n"               c="Noun"/>
+    <sdef n="np"              c="Proper noun"/>
+    <sdef n="vblex"           c="Verb, lexical"/>
+    <sdef n="vbmod"           c="Modal verb"/>
+    <sdef n="vaux"            c="Auxiliary verb"/>
+    <sdef n="vbser"           c="'To be' verb"/>
+    <sdef n="vbhaver"         c="'To have' verb"/>
+    <sdef n="cnjsub"          c="Subordinating conjunction"/>
+    <sdef n="cnjcoo"          c="Co-ordinating conjunction"/>
+    <sdef n="cnjadv"          c="Adverbial conjunction"/>
+    <sdef n="pr"              c="Preposition"/>
+    <sdef n="adv"             c="Adverb"/>
+    <sdef n="ij"              c="Interjection"/>
+    <sdef n="adj"             c="Adjective"/>
+    <sdef n="prn"             c="Pronoun"/>
+
+    <sdef n="attr"            c="Attributive"/>
+    <sdef n="top"             c="Toponym"/>
+    <sdef n="ant"             c="Anthroponym"/>
+    <sdef n="cog"             c="Cognomen"/>
+    <sdef n="org"             c="Organisation"/>
+    <sdef n="al"              c="Altres / misc proper nouns"/>
+
+    <sdef n="pers"            c="Personal pronoun"/>
+    <sdef n="ref"             c="Reflexive pronoun"/>
+    <sdef n="res"             c="Reciprocal pronoun"/>
+
+    <sdef n="det"             c="Determiner"/>
+    <sdef n="pos"             c="Possessive"/>
+
+    <sdef n="p1"              c="1st person"/>
+    <sdef n="p2"              c="2nd person"/>
+    <sdef n="p3"              c="3rd person"/>
+
+    <sdef n="nt"              c="Neuter"/>
+    <sdef n="ut"              c="Utrum"/>
+    <sdef n="f"               c="Feminine"/>
+    <sdef n="m"               c="Masculine"/>
+    <sdef n="un"              c="No gender"/>
+
+    <sdef n="sg"              c="Singular"/>
+    <sdef n="du"              c="Dual"/>
+    <sdef n="pl"              c="Plural"/>
+    <sdef n="sp"              c="Singular / plural"/>
+
+    <sdef n="ind"             c="Indefinite"/>
+    <sdef n="def"             c="Definite"/>
+
+    <sdef n="nom"             c="Nominative"/>
+    <sdef n="acc"             c="Accusative"/>
+    <sdef n="gen"             c="Genitive"/>
+
+    <sdef n="dem"             c="Demonstrative"/>
+    <sdef n="itg"             c="Question word / interrogative"/>
+    <sdef n="qnt"             c="Quantifier"/>
+    <sdef n="neg"             c="Negative"/>
+    <sdef n="emph"            c="Emphatic"/>
+
+    <sdef n="inf"             c="Infinitive"/>
+    <sdef n="pres"            c="Present"/>
+    <sdef n="imp"             c="Imperative"/>
+    <sdef n="pret"            c="Preterite"/>
+    <sdef n="pp"              c="Perfect participle"/>
+    <sdef n="pprs"            c="Present participle"/>
+    <sdef n="pasv"            c="Passive"/>
+    <sdef n="actv"            c="Active voice"/>
+
+    <sdef n="sint"            c="Synthetic (of adjectives)"/>
+    <sdef n="pst"             c="Positive"/>
+    <sdef n="comp"            c="Comparative"/>
+    <sdef n="sup"             c="Superlative"/>
+
+    <sdef n="ord"             c="Ordinal"/>
+    <sdef n="acr"             c="Acronym"/>
+    <sdef n="unc"             c="Uncountable"/>
+
+    <sdef n="num"             c="Numeral"/>
+    <sdef n="sent"            c="Sentence end"/>
+    <sdef n="cm"              c="Comma"/>
+    <sdef n="apos"            c="Apostrophe"/>
+    <sdef n="guio"            c="Dash"/>
+    <sdef n="lpar"            c="Left parenthesis"/>
+    <sdef n="rpar"            c="Right parenthesis"/>
+    <sdef n="lquot"           c="Left quote"/>
+    <sdef n="rquot"           c="Right quote"/>
+
+    <sdef n="compound-only-L" c="May only be the left-side of a compound"/>
+    <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
+  </sdefs>
+
+  <pardefs>
+	<!-- Nouns -->
+    <pardef n="hale__n">
+      <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
+    </pardef>
+	  
+	<!-- Verbs -->
+	<pardef n="lohe__vblex">
+      <e><p><l></l><r><s n="vblex"/><s n="inf"/></r></p></e>
+    </pardef>
+	  
+	<!-- Adjectives -->
+	<pardef n="akamai__adj">
+      <e><p><l></l><r><s n="adj"/></r></p></e>
+    </pardef>
+  </pardefs>
+
+  <section id="main" type="standard">
+	  
+	<!-- SECTION: Nouns -->
+	  
+    <e lm="ahi"><i>ahi</i><par n="hale__n"/></e>
+    <e lm="ahiahi"><i>ahiahi</i><par n="hale__n"/></e>
+    <e lm="aho"><i>aho</i><par n="hale__n"/></e>
+    <e lm="aikane"><i>aikane</i><par n="hale__n"/></e>
+    <e lm="aina"><i>aina</i><par n="hale__n"/></e>
+    <e lm="akamai"><i>akamai</i><par n="hale__n"/></e>
+    <e lm="ake"><i>ake</i><par n="hale__n"/></e>
+    <e lm="akeakamai"><i>akeakamai</i><par n="hale__n"/></e>
+    <e lm="akemama"><i>akemama</i><par n="hale__n"/></e>
+    <e lm="aku"><i>aku</i><par n="hale__n"/></e>
+    <e lm="akua"><i>akua</i><par n="hale__n"/></e>
+    <e lm="ala"><i>ala</i><par n="hale__n"/></e>
+    <e lm="alani"><i>alani</i><par n="hale__n"/></e>
+    <e lm="alanui"><i>alanui</i><par n="hale__n"/></e>
+    <e lm="alelo"><i>alelo</i><par n="hale__n"/></e>
+    <e lm="alo"><i>alo</i><par n="hale__n"/></e>
+    <e lm="amo"><i>amo</i><par n="hale__n"/></e>
+    <e lm="ha"><i>ha</i><par n="hale__n"/></e>
+    <e lm="hae"><i>hae</i><par n="hale__n"/></e>
+    <e lm="haku"><i>haku</i><par n="hale__n"/></e>
+    <e lm="hala"><i>hala</i><par n="hale__n"/></e>
+    <e lm="hale"><i>hale</i><par n="hale__n"/></e>
+    <e lm="hale"><i>hale</i><par n="hale__n"/></e>
+    <e lm="hana"><i>hana</i><par n="hale__n"/></e>
+    <e lm="hana"><i>hana</i><par n="hale__n"/></e>
+    <e lm="hanai"><i>hanai</i><par n="hale__n"/></e>
+    <e lm="hanau"><i>hanau</i><par n="hale__n"/></e>
+    <e lm="hanu"><i>hanu</i><par n="hale__n"/></e>
+    <e lm="haole"><i>haole</i><par n="hale__n"/></e>
+    <e lm="hapa"><i>hapa</i><par n="hale__n"/></e>
+    <e lm="hau"><i>hau</i><par n="hale__n"/></e>
+    <e lm="haumana"><i>haumana</i><par n="hale__n"/></e>
+    <e lm="he"><i>he</i><par n="hale__n"/></e>
+    <e lm="helu"><i>helu</i><par n="hale__n"/></e>
+    <e lm="hema"><i>hema</i><par n="hale__n"/></e>
+    <e lm="hemolele"><i>hemolele</i><par n="hale__n"/></e>
+    <e lm="henua"><i>henua</i><par n="hale__n"/></e>
+    <e lm="hewa"><i>hewa</i><par n="hale__n"/></e>
+    <e lm="hiamoe"><i>hiamoe</i><par n="hale__n"/></e>
+    <e lm="hiki"><i>hiki</i><par n="hale__n"/></e>
+    <e lm="hikina"><i>hikina</i><par n="hale__n"/></e>
+    <e lm="hili"><i>hili</i><par n="hale__n"/></e>
+    <e lm="hinano"><i>hinano</i><par n="hale__n"/></e>
+    <e lm="hoe"><i>hoe</i><par n="hale__n"/></e>
+    <e lm="hoikiuna"><i>hoikiuna</i><par n="hale__n"/></e>
+    <e lm="hoku"><i>hoku</i><par n="hale__n"/></e>
+    <e lm="holo"><i>holo</i><par n="hale__n"/></e>
+    <e lm="holoi"><i>holoi</i><par n="hale__n"/></e>
+    <e lm="hono"><i>hono</i><par n="hale__n"/></e>
+    <e lm="honu"><i>honu</i><par n="hale__n"/></e>
+    <e lm="honua"><i>honua</i><par n="hale__n"/></e>
+    <e lm="hua"><i>hua</i><par n="hale__n"/></e>
+    <e lm="huako"><i>huako</i><par n="hale__n"/></e>
+    <e lm="hue"><i>hue</i><par n="hale__n"/></e>
+    <e lm="huhu"><i>huhu</i><par n="hale__n"/></e>
+    <e lm="hui"><i>hui</i><par n="hale__n"/></e>
+    <e lm="huki"><i>huki</i><par n="hale__n"/></e>
+    <e lm="hula"><i>hula</i><par n="hale__n"/></e>
+    <e lm="hulu"><i>hulu</i><par n="hale__n"/></e>
+    <e lm="ieta"><i>ieta</i><par n="hale__n"/></e>
+    <e lm="iho"><i>iho</i><par n="hale__n"/></e>
+    <e lm="ihu"><i>ihu</i><par n="hale__n"/></e>
+    <e lm="imu"><i>imu</i><par n="hale__n"/></e>
+    <e lm="inoa"><i>inoa</i><par n="hale__n"/></e>
+    <e lm="inu"><i>inu</i><par n="hale__n"/></e>
+    <e lm="iota"><i>iota</i><par n="hale__n"/></e>
+    <e lm="ipu"><i>ipu</i><par n="hale__n"/></e>
+    <e lm="iwi"><i>iwi</i><par n="hale__n"/></e>
+    <e lm="kahakai"><i>kahakai</i><par n="hale__n"/></e>
+    <e lm="kahako"><i>kahako</i><par n="hale__n"/></e>
+    <e lm="kahaone"><i>kahaone</i><par n="hale__n"/></e>
+    <e lm="kahi"><i>kahi</i><par n="hale__n"/></e>
+    <e lm="kahiko"><i>kahiko</i><par n="hale__n"/></e>
+    <e lm="kahuna"><i>kahuna</i><par n="hale__n"/></e>
+    <e lm="kai"><i>kai</i><par n="hale__n"/></e>
+    <e lm="kaikamahine"><i>kaikamahine</i><par n="hale__n"/></e>
+    <e lm="kaimana"><i>kaimana</i><par n="hale__n"/></e>
+    <e lm="kainui"><i>kainui</i><par n="hale__n"/></e>
+    <e lm="kane"><i>kane</i><par n="hale__n"/></e>
+    <e lm="keiki"><i>keiki</i><par n="hale__n"/></e>
+    <e lm="ki"><i>ki</i><par n="hale__n"/></e>
+    <e lm="kino"><i>kino</i><par n="hale__n"/></e>
+    <e lm="kula"><i>kula</i><par n="hale__n"/></e>
+    <e lm="kula"><i>kula</i><par n="hale__n"/></e>
+    <e lm="kumu"><i>kumu</i><par n="hale__n"/></e>
+    <e lm="kupuna"><i>kupuna</i><par n="hale__n"/></e>
+    <e lm="lole"><i>lole</i><par n="hale__n"/></e>
+    <e lm="lumi"><i>lumi</i><par n="hale__n"/></e>
+    <e lm="manu"><i>manu</i><par n="hale__n"/></e>
+    <e lm="mea"><i>mea</i><par n="hale__n"/></e>
+    <e lm="noho"><i>noho</i><par n="hale__n"/></e>
+    <e lm="peni"><i>peni</i><par n="hale__n"/></e>
+    <e lm="penikala"><i>penikala</i><par n="hale__n"/></e>
+    <e lm="pepa"><i>pepa</i><par n="hale__n"/></e>
+    <e lm="pohaku"><i>pohaku</i><par n="hale__n"/></e>
+    <e lm="pua"><i>pua</i><par n="hale__n"/></e>
+    <e lm="puke"><i>puke</i><par n="hale__n"/></e>
+    <e lm="pule"><i>pule</i><par n="hale__n"/></e>
+    <e lm="wahine"><i>wahine</i><par n="hale__n"/></e>
+    <e lm="waiwai"><i>waiwai</i><par n="hale__n"/></e>
+	  
+	<!-- SECTION: Adjectives -->
+	  
+    <e lm="'ono"><i>'ono</i><par n="akamai__adj"/></e>
+    <e lm="akamai"><i>akamai</i><par n="akamai__adj"/></e>
+    <e lm="anuanu"><i>anuanu</i><par n="akamai__adj"/></e>
+    <e lm="hau'oli"><i>hau'oli</i><par n="akamai__adj"/></e>
+    <e lm="hou"><i>hou</i><par n="akamai__adj"/></e>
+    <e lm="ikaika"><i>ikaika</i><par n="akamai__adj"/></e>
+    <e lm="kahiko"><i>kahiko</i><par n="akamai__adj"/></e>
+    <e lm="kaumaha"><i>kaumaha</i><par n="akamai__adj"/></e>
+    <e lm="li'ili'i"><i>li'ili'i</i><par n="akamai__adj"/></e>
+    <e lm="maika'i"><i>maika'i</i><par n="akamai__adj"/></e>
+    <e lm="maluhiluhi"><i>maluhiluhi</i><par n="akamai__adj"/></e>
+    <e lm="nani"><i>nani</i><par n="akamai__adj"/></e>
+    <e lm="nui"><i>nui</i><par n="akamai__adj"/></e>
+    <e lm="pololi"><i>pololi</i><par n="akamai__adj"/></e>
+    <e lm="wela"><i>wela</i><par n="akamai__adj"/></e>
+	  
+	<!-- SECTION: Verbs -->	  
+	  
+    <e lm="aho"><i>aho</i><par n="lohe__vblex"/></e>
+    <e lm="aloha"><i>aloha</i><par n="lohe__vblex"/></e>
+    <e lm="haku"><i>haku</i><par n="lohe__vblex"/></e>
+    <e lm="hali"><i>hali</i><par n="lohe__vblex"/></e>
+    <e lm="hana"><i>hana</i><par n="lohe__vblex"/></e>
+    <e lm="hanai"><i>hanai</i><par n="lohe__vblex"/></e>
+    <e lm="hanau"><i>hanau</i><par n="lohe__vblex"/></e>
+    <e lm="hanu"><i>hanu</i><par n="lohe__vblex"/></e>
+    <e lm="haole"><i>haole</i><par n="lohe__vblex"/></e>
+    <e lm="hele"><i>hele</i><par n="lohe__vblex"/></e>
+    <e lm="helu"><i>helu</i><par n="lohe__vblex"/></e>
+    <e lm="hewa"><i>hewa</i><par n="lohe__vblex"/></e>
+    <e lm="hiamoe"><i>hiamoe</i><par n="lohe__vblex"/></e>
+    <e lm="hiki"><i>hiki</i><par n="lohe__vblex"/></e>
+    <e lm="hiku"><i>hiku</i><par n="lohe__vblex"/></e>
+    <e lm="hili"><i>hili</i><par n="lohe__vblex"/></e>
+    <e lm="hiu"><i>hiu</i><par n="lohe__vblex"/></e>
+    <e lm="holo"><i>holo</i><par n="lohe__vblex"/></e>
+    <e lm="holo"><i>holo</i><par n="lohe__vblex"/></e>
+    <e lm="holoi"><i>holoi</i><par n="lohe__vblex"/></e>
+    <e lm="honua"><i>honua</i><par n="lohe__vblex"/></e>
+    <e lm="huhu"><i>huhu</i><par n="lohe__vblex"/></e>
+    <e lm="iho"><i>iho</i><par n="lohe__vblex"/></e>
+    <e lm="kahi"><i>kahi</i><par n="lohe__vblex"/></e>
+    <e lm="kakau"><i>kakau</i><par n="lohe__vblex"/></e>
+    <e lm="kalua"><i>kalua</i><par n="lohe__vblex"/></e>
+    <e lm="kanu"><i>kanu</i><par n="lohe__vblex"/></e>
+    <e lm="kiki"><i>kiki</i><par n="lohe__vblex"/></e>
+    <e lm="kino"><i>kino</i><par n="lohe__vblex"/></e>
+    <e lm="koa"><i>koa</i><par n="lohe__vblex"/></e>
+    <e lm="koaea"><i>koaea</i><par n="lohe__vblex"/></e>
+    <e lm="komo"><i>komo</i><par n="lohe__vblex"/></e>
+    <e lm="kono"><i>kono</i><par n="lohe__vblex"/></e>
+    <e lm="kua"><i>kua</i><par n="lohe__vblex"/></e>
+    <e lm="makemake"><i>makemake</i><par n="lohe__vblex"/></e>
+	  
+  </section>
+
+  <section id="final" type="inconditional">
+    <e><re>[.\?;:!…¿¶]</re><p><l></l><r><s n="sent"/></r></p></e>
+    <e><re>,</re>          <p><l></l><r><s n="cm"/></r></p></e>
+  </section>
+
+</dictionary>
+
+<!--
+Resources:
+    http://wiki.apertium.org/wiki/Monodix_basics
+    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Monolingual_dictionaries
+-->

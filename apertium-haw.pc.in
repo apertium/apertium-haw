@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-haw
+
+Name: apertium-haw
+Description: Finite-state morphological transducer and constraint grammar for Hawaiian 
+Version: @VERSION@
+
