@@ -99,20 +99,40 @@
   <pardefs>
 	<!-- Nouns -->
     <pardef n="hale__n">
-      <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
-    </pardef>
-	  
-	<!-- Verbs -->
-	<pardef n="lohe__vblex">
-      <e><p><l></l><r><s n="vblex"/><s n="inf"/></r></p></e>
+		<e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
     </pardef>
 	  
 	<!-- Adjectives -->
 	<pardef n="akamai__adj">
       <e><p><l></l><r><s n="adj"/></r></p></e>
+    </pardef>	  
+	  
+	<!-- Verbs -->
+	<pardef n="lohe__vblex">
+      <e><p><l></l><r><s n="vblex"/><s n="inf"/></r></p></e>
     </pardef>
-  </pardefs>
 
+	<!-- Determiners -->
+    <pardef n="ke/ia__det">
+      <e><p><l>ia</l><r>ia<s n="det"/><s n="dem"/><s n="sg"/><s n="p1"/></r></p></e>
+      <e><p><l>na</l><r>ia<s n="det"/><s n="dem"/><s n="sg"/><s n="p2"/></r></p></e>
+      <e><p><l>la</l><r>ia<s n="det"/><s n="dem"/><s n="sg"/><s n="p3"/></r></p></e>
+      <e><p><l>ia<b/>mau</l><r>ia<s n="det"/><s n="dem"/><s n="pl"/><s n="p1"/></r></p></e>
+      <e><p><l>na<b/>mau</l><r>ia<s n="det"/><s n="dem"/><s n="pl"/><s n="p2"/></r></p></e>
+      <e><p><l>la<b/>mau</l><r>ia<s n="det"/><s n="dem"/><s n="pl"/><s n="p3"/></r></p></e>		
+    </pardef>
+	  
+	<!-- Prepositions -->
+	<pardef n="me__pr">
+      <e><p><l></l><r><s n="pr"/></r></p></e>
+    </pardef>
+	  
+	<!-- Conjunctions -->
+	<pardef n="aka__cnjcoo">
+      <e><p><l></l><r><s n="cnjcoo"/></r></p></e>
+    </pardef>	  	  
+  	</pardefs>
+	
   <section id="main" type="standard">
 	  
 	<!-- SECTION: Nouns -->
@@ -274,6 +294,31 @@
     <e lm="kua"><i>kua</i><par n="lohe__vblex"/></e>
     <e lm="makemake"><i>makemake</i><par n="lohe__vblex"/></e>
 	  
+	<!-- SECTION: Derterminers -->	 
+    <e lm="keia"><i>ke</i><par n="ke/ia__det"/></e>
+	  
+	<!-- SECTION: Prepositions -->	 
+    <e lm="a"><i>a</i><par n="me__pr"/></e>	
+    <e lm="a'e"><i>a'e</i><par n="me__pr"/></e>	  
+    <e lm="a'o"><i>a'o</i><par n="me__pr"/></e>	  
+    <e lm="e"><i>e</i><par n="me__pr"/></e>	  
+    <e lm="i"><i>i</i><par n="me__pr"/></e>	  
+    <e lm="ka"><i>ka</i><par n="me__pr"/></e>	  
+    <e lm="ko"><i>ko</i><par n="me__pr"/></e>	  
+    <e lm="a"><i>a</i><par n="me__pr"/></e>	 
+    <e lm="ma"><i>ma</i><par n="me__pr"/></e>	  
+    <e lm="mai"><i>mai</i><par n="me__pr"/></e>	  
+    <e lm="me"><i>me</i><par n="me__pr"/></e>	  
+    <e lm="na"><i>na</i><par n="me__pr"/></e>	  
+    <e lm="no"><i>no</i><par n="me__pr"/></e>	  
+    <e lm="o"><i>o</i><par n="me__pr"/></e>	  
+	  
+	<!-- SECTION: Conjunctions -->	 
+    <e lm="a"><i>a</i><par n="aka__cnjcoo"/></e>	
+    <e lm="aka"><i>aka</i><par n="aka__cnjcoo"/></e>	
+    <e lm="a me"><i>a<b/>me</i><par n="aka__cnjcoo"/></e>	
+    <e lm="malama"><i>malama</i><par n="aka__cnjcoo"/></e>	
+    <e lm="o"><i>o</i><par n="aka__cnjcoo"/></e>		  	  
   </section>
 
   <section id="final" type="inconditional">
