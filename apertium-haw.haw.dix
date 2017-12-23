@@ -113,17 +113,21 @@
     </pardef>	  
 	  
 	<!-- Verbs -->
+	<pardef n="lohe__vblex">
+	  <e><p><l></l><r><s n="vblex"/></r></p></e>
+    </pardef>
+		
 	<pardef n="__vblex_pp">
       <e><p><l></l><r><s n="vblex"/><s n="pp"/></r></p></e>
     </pardef>
-	  
+
 	<pardef n="__vblex_inf">
       <e><p><l></l><r><s n="vblex"/><s n="inf"/></r></p></e>
       <e><p><l></l><r><s n="vblex"/><s n="fut"/></r></p></e>
       <e><p><l></l><r><s n="vblex"/><s n="imp"/></r></p></e>
       <e><p><l> ana</l><r><s n="vblex"/><s n="pii"/></r></p></e>
     </pardef>	
-	  
+
 	<pardef n="__vblex_pres">
       <e><p><l></l><r><s n="vblex"/><s n="pres"/></r></p></e>
     </pardef>	  
@@ -274,111 +278,147 @@
 	  
 	<!-- SECTION: Verbs -->	
 	  
+    <e lm="aho"><i>aho</i><par n="lohe__vblex"/></e>
     <e lm="aho"><p><l>e<b/>aho</l><r>aho</r></p><par n="__vblex_inf"/></e>
     <e lm="aho"><p><l>i<b/>aho</l><r>aho</r></p><par n="__vblex_pp"/></e>
     <e lm="aho"><p><l>ke<b/>aho<b/>nei</l><r>aho</r></p><par n="__vblex_pres"/></e>
+    <e lm="aloha"><i>aloha</i><par n="lohe__vblex"/></e>
     <e lm="aloha"><p><l>e<b/>aloha</l><r>aloha</r></p><par n="__vblex_inf"/></e>
     <e lm="aloha"><p><l>i<b/>aloha</l><r>aloha</r></p><par n="__vblex_pp"/></e>
     <e lm="aloha"><p><l>ke<b/>aloha<b/>nei</l><r>aloha</r></p><par n="__vblex_pres"/></e>
+    <e lm="haku"><i>haku</i><par n="lohe__vblex"/></e>
     <e lm="haku"><p><l>e<b/>haku</l><r>haku</r></p><par n="__vblex_inf"/></e>
     <e lm="haku"><p><l>i<b/>haku</l><r>haku</r></p><par n="__vblex_pp"/></e>
     <e lm="haku"><p><l>ke<b/>haku<b/>nei</l><r>haku</r></p><par n="__vblex_pres"/></e>
+    <e lm="hali"><i>hali</i><par n="lohe__vblex"/></e>
     <e lm="hali"><p><l>e<b/>hali</l><r>hali</r></p><par n="__vblex_inf"/></e>
     <e lm="hali"><p><l>i<b/>hali</l><r>hali</r></p><par n="__vblex_pp"/></e>
     <e lm="hali"><p><l>ke<b/>hali<b/>nei</l><r>hali</r></p><par n="__vblex_pres"/></e>
+    <e lm="hana"><i>hana</i><par n="lohe__vblex"/></e>
     <e lm="hana"><p><l>e<b/>hana</l><r>hana</r></p><par n="__vblex_inf"/></e>
     <e lm="hana"><p><l>i<b/>hana</l><r>hana</r></p><par n="__vblex_pp"/></e>
     <e lm="hana"><p><l>ke<b/>hana<b/>nei</l><r>hana</r></p><par n="__vblex_pres"/></e>
+    <e lm="hanai"><i>hanai</i><par n="lohe__vblex"/></e>
     <e lm="hanai"><p><l>e<b/>hanai</l><r>hanai</r></p><par n="__vblex_inf"/></e>
     <e lm="hanai"><p><l>i<b/>hanai</l><r>hanai</r></p><par n="__vblex_pp"/></e>
     <e lm="hanai"><p><l>ke<b/>hanai<b/>nei</l><r>hanai</r></p><par n="__vblex_pres"/></e>
+    <e lm="hanau"><i>hanau</i><par n="lohe__vblex"/></e>
     <e lm="hanau"><p><l>e<b/>hanau</l><r>hanau</r></p><par n="__vblex_inf"/></e>
     <e lm="hanau"><p><l>i<b/>hanau</l><r>hanau</r></p><par n="__vblex_pp"/></e>
     <e lm="hanau"><p><l>ke<b/>hanau<b/>nei</l><r>hanau</r></p><par n="__vblex_pres"/></e>
+    <e lm="hanu"><i>hanu</i><par n="lohe__vblex"/></e>
     <e lm="hanu"><p><l>e<b/>hanu</l><r>hanu</r></p><par n="__vblex_inf"/></e>
     <e lm="hanu"><p><l>i<b/>hanu</l><r>hanu</r></p><par n="__vblex_pp"/></e>
     <e lm="hanu"><p><l>ke<b/>hanu<b/>nei</l><r>hanu</r></p><par n="__vblex_pres"/></e>
+    <e lm="haole"><i>haole</i><par n="lohe__vblex"/></e>
     <e lm="haole"><p><l>e<b/>haole</l><r>haole</r></p><par n="__vblex_inf"/></e>
     <e lm="haole"><p><l>i<b/>haole</l><r>haole</r></p><par n="__vblex_pp"/></e>
     <e lm="haole"><p><l>ke<b/>haole<b/>nei</l><r>haole</r></p><par n="__vblex_pres"/></e>
+    <e lm="hele"><i>hele</i><par n="lohe__vblex"/></e>
     <e lm="hele"><p><l>e<b/>hele</l><r>hele</r></p><par n="__vblex_inf"/></e>
     <e lm="hele"><p><l>i<b/>hele</l><r>hele</r></p><par n="__vblex_pp"/></e>
     <e lm="hele"><p><l>ke<b/>hele<b/>nei</l><r>hele</r></p><par n="__vblex_pres"/></e>
+    <e lm="helu"><i>helu</i><par n="lohe__vblex"/></e>
     <e lm="helu"><p><l>e<b/>helu</l><r>helu</r></p><par n="__vblex_inf"/></e>
     <e lm="helu"><p><l>i<b/>helu</l><r>helu</r></p><par n="__vblex_pp"/></e>
     <e lm="helu"><p><l>ke<b/>helu<b/>nei</l><r>helu</r></p><par n="__vblex_pres"/></e>
+    <e lm="hewa"><i>hewa</i><par n="lohe__vblex"/></e>
     <e lm="hewa"><p><l>e<b/>hewa</l><r>hewa</r></p><par n="__vblex_inf"/></e>
     <e lm="hewa"><p><l>i<b/>hewa</l><r>hewa</r></p><par n="__vblex_pp"/></e>
     <e lm="hewa"><p><l>ke<b/>hewa<b/>nei</l><r>hewa</r></p><par n="__vblex_pres"/></e>
+    <e lm="hiamoe"><i>hiamoe</i><par n="lohe__vblex"/></e>
     <e lm="hiamoe"><p><l>e<b/>hiamoe</l><r>hiamoe</r></p><par n="__vblex_inf"/></e>
     <e lm="hiamoe"><p><l>i<b/>hiamoe</l><r>hiamoe</r></p><par n="__vblex_pp"/></e>
     <e lm="hiamoe"><p><l>ke<b/>hiamoe<b/>nei</l><r>hiamoe</r></p><par n="__vblex_pres"/></e>
+    <e lm="hiki"><i>hiki</i><par n="lohe__vblex"/></e>
     <e lm="hiki"><p><l>e<b/>hiki</l><r>hiki</r></p><par n="__vblex_inf"/></e>
     <e lm="hiki"><p><l>i<b/>hiki</l><r>hiki</r></p><par n="__vblex_pp"/></e>
     <e lm="hiki"><p><l>ke<b/>hiki<b/>nei</l><r>hiki</r></p><par n="__vblex_pres"/></e>
+    <e lm="hiku"><i>hiku</i><par n="lohe__vblex"/></e>
     <e lm="hiku"><p><l>e<b/>hiku</l><r>hiku</r></p><par n="__vblex_inf"/></e>
     <e lm="hiku"><p><l>i<b/>hiku</l><r>hiku</r></p><par n="__vblex_pp"/></e>
     <e lm="hiku"><p><l>ke<b/>hiku<b/>nei</l><r>hiku</r></p><par n="__vblex_pres"/></e>
+    <e lm="hili"><i>hili</i><par n="lohe__vblex"/></e>
     <e lm="hili"><p><l>e<b/>hili</l><r>hili</r></p><par n="__vblex_inf"/></e>
     <e lm="hili"><p><l>i<b/>hili</l><r>hili</r></p><par n="__vblex_pp"/></e>
     <e lm="hili"><p><l>ke<b/>hili<b/>nei</l><r>hili</r></p><par n="__vblex_pres"/></e>
+    <e lm="hiu"><i>hiu</i><par n="lohe__vblex"/></e>
     <e lm="hiu"><p><l>e<b/>hiu</l><r>hiu</r></p><par n="__vblex_inf"/></e>
     <e lm="hiu"><p><l>i<b/>hiu</l><r>hiu</r></p><par n="__vblex_pp"/></e>
     <e lm="hiu"><p><l>ke<b/>hiu<b/>nei</l><r>hiu</r></p><par n="__vblex_pres"/></e>
+    <e lm="holo"><i>holo</i><par n="lohe__vblex"/></e>
+    <e lm="holo"><i>holo</i><par n="lohe__vblex"/></e>
     <e lm="holo"><p><l>e<b/>holo</l><r>holo</r></p><par n="__vblex_inf"/></e>
     <e lm="holo"><p><l>e<b/>holo</l><r>holo</r></p><par n="__vblex_inf"/></e>
     <e lm="holo"><p><l>i<b/>holo</l><r>holo</r></p><par n="__vblex_pp"/></e>
     <e lm="holo"><p><l>i<b/>holo</l><r>holo</r></p><par n="__vblex_pp"/></e>
     <e lm="holo"><p><l>ke<b/>holo<b/>nei</l><r>holo</r></p><par n="__vblex_pres"/></e>
     <e lm="holo"><p><l>ke<b/>holo<b/>nei</l><r>holo</r></p><par n="__vblex_pres"/></e>
+    <e lm="holoi"><i>holoi</i><par n="lohe__vblex"/></e>
     <e lm="holoi"><p><l>e<b/>holoi</l><r>holoi</r></p><par n="__vblex_inf"/></e>
     <e lm="holoi"><p><l>i<b/>holoi</l><r>holoi</r></p><par n="__vblex_pp"/></e>
     <e lm="holoi"><p><l>ke<b/>holoi<b/>nei</l><r>holoi</r></p><par n="__vblex_pres"/></e>
+    <e lm="honua"><i>honua</i><par n="lohe__vblex"/></e>
     <e lm="honua"><p><l>e<b/>honua</l><r>honua</r></p><par n="__vblex_inf"/></e>
     <e lm="honua"><p><l>i<b/>honua</l><r>honua</r></p><par n="__vblex_pp"/></e>
     <e lm="honua"><p><l>ke<b/>honua<b/>nei</l><r>honua</r></p><par n="__vblex_pres"/></e>
+    <e lm="huhu"><i>huhu</i><par n="lohe__vblex"/></e>
     <e lm="huhu"><p><l>e<b/>huhu</l><r>huhu</r></p><par n="__vblex_inf"/></e>
     <e lm="huhu"><p><l>i<b/>huhu</l><r>huhu</r></p><par n="__vblex_pp"/></e>
     <e lm="huhu"><p><l>ke<b/>huhu<b/>nei</l><r>huhu</r></p><par n="__vblex_pres"/></e>
+    <e lm="iho"><i>iho</i><par n="lohe__vblex"/></e>
     <e lm="iho"><p><l>e<b/>iho</l><r>iho</r></p><par n="__vblex_inf"/></e>
     <e lm="iho"><p><l>i<b/>iho</l><r>iho</r></p><par n="__vblex_pp"/></e>
     <e lm="iho"><p><l>ke<b/>iho<b/>nei</l><r>iho</r></p><par n="__vblex_pres"/></e>
+    <e lm="kahi"><i>kahi</i><par n="lohe__vblex"/></e>
     <e lm="kahi"><p><l>e<b/>kahi</l><r>kahi</r></p><par n="__vblex_inf"/></e>
     <e lm="kahi"><p><l>i<b/>kahi</l><r>kahi</r></p><par n="__vblex_pp"/></e>
     <e lm="kahi"><p><l>ke<b/>kahi<b/>nei</l><r>kahi</r></p><par n="__vblex_pres"/></e>
+    <e lm="kakau"><i>kakau</i><par n="lohe__vblex"/></e>
     <e lm="kakau"><p><l>e<b/>kakau</l><r>kakau</r></p><par n="__vblex_inf"/></e>
     <e lm="kakau"><p><l>i<b/>kakau</l><r>kakau</r></p><par n="__vblex_pp"/></e>
     <e lm="kakau"><p><l>ke<b/>kakau<b/>nei</l><r>kakau</r></p><par n="__vblex_pres"/></e>
+    <e lm="kalua"><i>kalua</i><par n="lohe__vblex"/></e>
     <e lm="kalua"><p><l>e<b/>kalua</l><r>kalua</r></p><par n="__vblex_inf"/></e>
     <e lm="kalua"><p><l>i<b/>kalua</l><r>kalua</r></p><par n="__vblex_pp"/></e>
     <e lm="kalua"><p><l>ke<b/>kalua<b/>nei</l><r>kalua</r></p><par n="__vblex_pres"/></e>
+    <e lm="kanu"><i>kanu</i><par n="lohe__vblex"/></e>
     <e lm="kanu"><p><l>e<b/>kanu</l><r>kanu</r></p><par n="__vblex_inf"/></e>
     <e lm="kanu"><p><l>i<b/>kanu</l><r>kanu</r></p><par n="__vblex_pp"/></e>
     <e lm="kanu"><p><l>ke<b/>kanu<b/>nei</l><r>kanu</r></p><par n="__vblex_pres"/></e>
+    <e lm="kiki"><i>kiki</i><par n="lohe__vblex"/></e>
     <e lm="kiki"><p><l>e<b/>kiki</l><r>kiki</r></p><par n="__vblex_inf"/></e>
     <e lm="kiki"><p><l>i<b/>kiki</l><r>kiki</r></p><par n="__vblex_pp"/></e>
     <e lm="kiki"><p><l>ke<b/>kiki<b/>nei</l><r>kiki</r></p><par n="__vblex_pres"/></e>
+    <e lm="kino"><i>kino</i><par n="lohe__vblex"/></e>
     <e lm="kino"><p><l>e<b/>kino</l><r>kino</r></p><par n="__vblex_inf"/></e>
     <e lm="kino"><p><l>i<b/>kino</l><r>kino</r></p><par n="__vblex_pp"/></e>
     <e lm="kino"><p><l>ke<b/>kino<b/>nei</l><r>kino</r></p><par n="__vblex_pres"/></e>
+    <e lm="koa"><i>koa</i><par n="lohe__vblex"/></e>
     <e lm="koa"><p><l>e<b/>koa</l><r>koa</r></p><par n="__vblex_inf"/></e>
     <e lm="koa"><p><l>i<b/>koa</l><r>koa</r></p><par n="__vblex_pp"/></e>
     <e lm="koa"><p><l>ke<b/>koa<b/>nei</l><r>koa</r></p><par n="__vblex_pres"/></e>
+    <e lm="koaea"><i>koaea</i><par n="lohe__vblex"/></e>
     <e lm="koaea"><p><l>e<b/>koaea</l><r>koaea</r></p><par n="__vblex_inf"/></e>
     <e lm="koaea"><p><l>i<b/>koaea</l><r>koaea</r></p><par n="__vblex_pp"/></e>
     <e lm="koaea"><p><l>ke<b/>koaea<b/>nei</l><r>koaea</r></p><par n="__vblex_pres"/></e>
+    <e lm="komo"><i>komo</i><par n="lohe__vblex"/></e>
     <e lm="komo"><p><l>e<b/>komo</l><r>komo</r></p><par n="__vblex_inf"/></e>
     <e lm="komo"><p><l>i<b/>komo</l><r>komo</r></p><par n="__vblex_pp"/></e>
     <e lm="komo"><p><l>ke<b/>komo<b/>nei</l><r>komo</r></p><par n="__vblex_pres"/></e>
+    <e lm="kono"><i>kono</i><par n="lohe__vblex"/></e>
     <e lm="kono"><p><l>e<b/>kono</l><r>kono</r></p><par n="__vblex_inf"/></e>
     <e lm="kono"><p><l>i<b/>kono</l><r>kono</r></p><par n="__vblex_pp"/></e>
     <e lm="kono"><p><l>ke<b/>kono<b/>nei</l><r>kono</r></p><par n="__vblex_pres"/></e>
+    <e lm="kua"><i>kua</i><par n="lohe__vblex"/></e>
     <e lm="kua"><p><l>e<b/>kua</l><r>kua</r></p><par n="__vblex_inf"/></e>
     <e lm="kua"><p><l>i<b/>kua</l><r>kua</r></p><par n="__vblex_pp"/></e>
     <e lm="kua"><p><l>ke<b/>kua<b/>nei</l><r>kua</r></p><par n="__vblex_pres"/></e>
+    <e lm="lohe"><i>lohe</i><par n="lohe__vblex"/></e>
+    <e lm="makemake"><i>makemake</i><par n="lohe__vblex"/></e>
     <e lm="makemake"><p><l>e<b/>makemake</l><r>makemake</r></p><par n="__vblex_inf"/></e>
     <e lm="makemake"><p><l>i<b/>makemake</l><r>makemake</r></p><par n="__vblex_pp"/></e>
-    <e lm="makemake"><p><l>ke<b/>makemake<b/>nei</l><r>makemake</r></p><par n="__vblex_pres"/></e>
+    <e lm="makemake"><p><l>ke<b/>makemake<b/>nei</l><r>makemake</r></p><par n="__vblex_pres"/></e>  
 	  
 	<!-- SECTION: Derterminers -->	 
     <e lm="keia"><i>ke</i><par n="ke/ia__det"/></e>
@@ -388,7 +428,7 @@
     <e lm="a'e"><i>a'e</i><par n="me__pr"/></e>	  
     <e lm="a'o"><i>a'o</i><par n="me__pr"/></e>	  
     <e lm="e"><i>e</i><par n="me__pr"/></e>	  
-<!--    <e lm="i"><i>i</i><par n="me__pr"/></e>	  -->
+    <e lm="i"><i>i</i><par n="me__pr"/></e>
     <e lm="ka"><i>ka</i><par n="me__pr"/></e>	  
     <e lm="ko"><i>ko</i><par n="me__pr"/></e>	  
     <e lm="a"><i>a</i><par n="me__pr"/></e>	 
