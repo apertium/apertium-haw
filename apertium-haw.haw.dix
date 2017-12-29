@@ -157,6 +157,77 @@
 	  
 	<!-- SECTION: Nouns -->
 	  
+
+    <e lm="'a'a"><i>'a'a</i><par n="hale__n"/></e>
+    <e lm="'a'i"><i>'a'i</i><par n="hale__n"/></e>
+    <e lm="'a"><i>'a</i><par n="hale__n"/></e>
+    <e lm="'ae"><i>'ae</i><par n="hale__n"/></e>
+    <e lm="'ai"><i>'ai</i><par n="hale__n"/></e>
+    <e lm="'aina"><i>'aina</i><par n="hale__n"/></e>
+    <e lm="'aina ahiahi"><i>'aina<b/>ahiahi</i><par n="hale__n"/></e>
+    <e lm="'aina awakea"><i>'aina<b/>awakea</i><par n="hale__n"/></e>
+    <e lm="'aina kakahiaka"><i>'aina<b/>kakahiaka</i><par n="hale__n"/></e>
+    <e lm="'ainapuni'ole"><i>'ainapuni'ole</i><par n="hale__n"/></e>
+    <e lm="'aka'aka"><i>'aka'aka</i><par n="hale__n"/></e>
+    <e lm="'aka'akai"><i>'aka'akai</i><par n="hale__n"/></e>
+    <e lm="'akau"><i>'akau</i><par n="hale__n"/></e>
+    <e lm="'alala"><i>'alala</i><par n="hale__n"/></e>
+    <e lm="'alani"><i>'alani</i><par n="hale__n"/></e>
+    <e lm="'ana"><i>'ana</i><par n="hale__n"/></e>
+    <e lm="'anakala"><i>'anakala</i><par n="hale__n"/></e>
+    <e lm="'anake"><i>'anake</i><par n="hale__n"/></e>
+    <e lm="'anela"><i>'anela</i><par n="hale__n"/></e>
+    <e lm="'anemoku"><i>'anemoku</i><par n="hale__n"/></e>
+    <e lm="'ano'i"><i>'ano'i</i><par n="hale__n"/></e>
+    <e lm="'ano"><i>'ano</i><par n="hale__n"/></e>
+    <e lm="'au"><i>'au</i><par n="hale__n"/></e>
+    <e lm="'auinala"><i>'auinala</i><par n="hale__n"/></e>
+    <e lm="'aumakua"><i>'aumakua</i><par n="hale__n"/></e>
+    <e lm="'awapuhi"><i>'awapuhi</i><par n="hale__n"/></e>
+    <e lm="'eha"><i>'eha</i><par n="hale__n"/></e>
+    <e lm="'ehu"><i>'ehu</i><par n="hale__n"/></e>
+    <e lm="'i'ini"><i>'i'ini</i><par n="hale__n"/></e>
+    <e lm="'i"><i>'i</i><par n="hale__n"/></e>
+    <e lm="'ike"><i>'ike</i><par n="hale__n"/></e>
+    <e lm="'ili"><i>'ili</i><par n="hale__n"/></e>
+    <e lm="'ili la'au"><i>'ili<b/>la'au</i><par n="hale__n"/></e>
+    <e lm="'ilio"><i>'ilio</i><par n="hale__n"/></e>
+    <e lm="'ino"><i>'ino</i><par n="hale__n"/></e>
+    <e lm="'io"><i>'io</i><par n="hale__n"/></e>
+    <e lm="'iole"><i>'iole</i><par n="hale__n"/></e>
+    <e lm="'iole li'ili'i"><i>'iole<b/>li'ili'i</i><par n="hale__n"/></e>
+    <e lm="'o"><i>'o</i><par n="hale__n"/></e>
+    <e lm="'ofeni"><i>'ofeni</i><par n="hale__n"/></e>
+    <e lm="'ohana"><i>'ohana</i><par n="hale__n"/></e>
+    <e lm="'ohe"><i>'ohe</i><par n="hale__n"/></e>
+    <e lm="'ohelo papa"><i>'ohelo<b/>papa</i><par n="hale__n"/></e>
+    <e lm="'ohu"><i>'ohu</i><par n="hale__n"/></e>
+    <e lm="'oia"><i>'oia</i><par n="hale__n"/></e>
+    <e lm="'oiwi"><i>'oiwi</i><par n="hale__n"/></e>
+    <e lm="'okina"><i>'okina</i><par n="hale__n"/></e>
+    <e lm="'okole"><i>'okole</i><par n="hale__n"/></e>
+    <e lm="'okolehao"><i>'okolehao</i><par n="hale__n"/></e>
+    <e lm="'ole"><i>'ole</i><par n="hale__n"/></e>
+    <e lm="'olelo"><i>'olelo</i><par n="hale__n"/></e>
+    <e lm="'olena"><i>'olena</i><par n="hale__n"/></e>
+    <e lm="'ope'ape'a"><i>'ope'ape'a</i><par n="hale__n"/></e>
+    <e lm="'opu"><i>'opu</i><par n="hale__n"/></e>
+    <e lm="'oumuamua"><i>'oumuamua</i><par n="hale__n"/></e>
+    <e lm="'u"><i>'u</i><par n="hale__n"/></e>
+    <e lm="'uhane"><i>'uhane</i><par n="hale__n"/></e>
+    <e lm="'uholo uila"><i>'uholo<b/>uila</i><par n="hale__n"/></e>
+    <e lm="'uholo uila 'ane"><i>'uholo<b/>uila<b/>'ane</i><par n="hale__n"/></e>
+    <e lm="'uholo uila 'ine"><i>'uholo<b/>uila<b/>'ine</i><par n="hale__n"/></e>
+    <e lm="'uku"><i>'uku</i><par n="hale__n"/></e>
+    <e lm="'uku lio"><i>'uku<b/>lio</i><par n="hale__n"/></e>
+    <e lm="'ukulele"><i>'ukulele</i><par n="hale__n"/></e>
+    <e lm="'ulu"><i>'ulu</i><par n="hale__n"/></e>
+    <e lm="'upa"><i>'upa</i><par n="hale__n"/></e>
+    <e lm="a'a"><i>a'a</i><par n="hale__n"/></e>
+    <e lm="a'e"><i>a'e</i><par n="hale__n"/></e>
+    <e lm="a'o"><i>a'o</i><par n="hale__n"/></e>
+    <e lm="a"><i>a</i><par n="hale__n"/></e>
+    <e lm="ae'o"><i>ae'o</i><par n="hale__n"/></e>
     <e lm="ahi"><i>ahi</i><par n="hale__n"/></e>
     <e lm="ahiahi"><i>ahiahi</i><par n="hale__n"/></e>
     <e lm="aho"><i>aho</i><par n="hale__n"/></e>
@@ -172,23 +243,38 @@
     <e lm="alani"><i>alani</i><par n="hale__n"/></e>
     <e lm="alanui"><i>alanui</i><par n="hale__n"/></e>
     <e lm="alelo"><i>alelo</i><par n="hale__n"/></e>
+    <e lm="ali'i"><i>ali'i</i><par n="hale__n"/></e>
     <e lm="alo"><i>alo</i><par n="hale__n"/></e>
+    <e lm="aloha"><i>aloha</i><par n="hale__n"/></e>
     <e lm="amo"><i>amo</i><par n="hale__n"/></e>
+    <e lm="ana"><i>ana</i><par n="hale__n"/></e>
+    <e lm="anila"><i>anila</i><par n="hale__n"/></e>
+    <e lm="anuenue"><i>anuenue</i><par n="hale__n"/></e>
+    <e lm="ao"><i>ao</i><par n="hale__n"/></e>
+    <e lm="au"><i>au</i><par n="hale__n"/></e>
+    <e lm="aupuni"><i>aupuni</i><par n="hale__n"/></e>
+    <e lm="awa"><i>awa</i><par n="hale__n"/></e>
+    <e lm="awakea"><i>awakea</i><par n="hale__n"/></e>
+    <e lm="ea"><i>ea</i><par n="hale__n"/></e>
+    <e lm="ha'awi"><i>ha'awi</i><par n="hale__n"/></e>
+    <e lm="ha'awina"><i>ha'awina</i><par n="hale__n"/></e>
     <e lm="ha"><i>ha</i><par n="hale__n"/></e>
     <e lm="hae"><i>hae</i><par n="hale__n"/></e>
     <e lm="haku"><i>haku</i><par n="hale__n"/></e>
+    <e lm="hala kahiki"><i>hala kahiki</i><par n="hale__n"/></e>
     <e lm="hala"><i>hala</i><par n="hale__n"/></e>
     <e lm="hale"><i>hale</i><par n="hale__n"/></e>
-    <e lm="hale"><i>hale</i><par n="hale__n"/></e>
-    <e lm="hana"><i>hana</i><par n="hale__n"/></e>
+    <e lm="hame'a"><i>hame'a</i><par n="hale__n"/></e>
     <e lm="hana"><i>hana</i><par n="hale__n"/></e>
     <e lm="hanai"><i>hanai</i><par n="hale__n"/></e>
     <e lm="hanau"><i>hanau</i><par n="hale__n"/></e>
     <e lm="hanu"><i>hanu</i><par n="hale__n"/></e>
     <e lm="haole"><i>haole</i><par n="hale__n"/></e>
     <e lm="hapa"><i>hapa</i><par n="hale__n"/></e>
+    <e lm="hau'oli"><i>hau'oli</i><par n="hale__n"/></e>
     <e lm="hau"><i>hau</i><par n="hale__n"/></e>
     <e lm="haumana"><i>haumana</i><par n="hale__n"/></e>
+    <e lm="he'e"><i>he'e</i><par n="hale__n"/></e>
     <e lm="he"><i>he</i><par n="hale__n"/></e>
     <e lm="helu"><i>helu</i><par n="hale__n"/></e>
     <e lm="hema"><i>hema</i><par n="hale__n"/></e>
@@ -200,22 +286,38 @@
     <e lm="hikina"><i>hikina</i><par n="hale__n"/></e>
     <e lm="hili"><i>hili</i><par n="hale__n"/></e>
     <e lm="hinano"><i>hinano</i><par n="hale__n"/></e>
+    <e lm="ho'oholo"><i>ho'oholo</i><par n="hale__n"/></e>
+    <e lm="ho'ola"><i>ho'ola</i><par n="hale__n"/></e>
+    <e lm="ho'ole akua"><i>ho'ole<b/>akua</i><par n="hale__n"/></e>
     <e lm="hoe"><i>hoe</i><par n="hale__n"/></e>
     <e lm="hoikiuna"><i>hoikiuna</i><par n="hale__n"/></e>
+    <e lm="hoku hele"><i>hoku<b/>hele</i><par n="hale__n"/></e>
     <e lm="hoku"><i>hoku</i><par n="hale__n"/></e>
+    <e lm="hoku hele"><i>hoku<b/>hele</i><par n="hale__n"/></e>
+    <e lm="hoku kai"><i>hoku<b/>kai</i><par n="hale__n"/></e>
     <e lm="holo"><i>holo</i><par n="hale__n"/></e>
+    <e lm="holoholona"><i>holoholona</i><par n="hale__n"/></e>
     <e lm="holoi"><i>holoi</i><par n="hale__n"/></e>
     <e lm="hono"><i>hono</i><par n="hale__n"/></e>
     <e lm="honu"><i>honu</i><par n="hale__n"/></e>
     <e lm="honua"><i>honua</i><par n="hale__n"/></e>
+    <e lm="hua palapala"><i>hua<b/>palapala</i><par n="hale__n"/></e>
+    <e lm="hua'olelo"><i>hua'olelo</i><par n="hale__n"/></e>
     <e lm="hua"><i>hua</i><par n="hale__n"/></e>
+    <e lm="hua 'olelo"><i>hua<b/>'olelo</i><par n="hale__n"/></e>
     <e lm="huako"><i>huako</i><par n="hale__n"/></e>
     <e lm="hue"><i>hue</i><par n="hale__n"/></e>
     <e lm="huhu"><i>huhu</i><par n="hale__n"/></e>
-    <e lm="hui"><i>hui</i><par n="hale__n"/></e>
+    <e lm="hui"><i>hui</i><par n="hale__n"/></e>    <e lm="huki"><i>huki</i><par n="hale__n"/></e>
     <e lm="huki"><i>huki</i><par n="hale__n"/></e>
     <e lm="hula"><i>hula</i><par n="hale__n"/></e>
     <e lm="hulu"><i>hulu</i><par n="hale__n"/></e>
+    <e lm="humuhumu"><i>humuhumu</i><par n="hale__n"/></e>
+    <e lm="huna hohoki"><i>huna hohoki</i><par n="hale__n"/></e>
+    <e lm="huna 'ane"><i>huna<b/>'ane</i><par n="hale__n"/></e>
+    <e lm="huna 'ine"><i>huna<b/>'ine</i><par n="hale__n"/></e>
+    <e lm="i'a"><i>i'a</i><par n="hale__n"/></e>
+    <e lm="i'a 'ula'ula"><i>i'a<b/>'ula'ula</i><par n="hale__n"/></e>
     <e lm="ieta"><i>ieta</i><par n="hale__n"/></e>
     <e lm="iho"><i>iho</i><par n="hale__n"/></e>
     <e lm="ihu"><i>ihu</i><par n="hale__n"/></e>
@@ -225,6 +327,8 @@
     <e lm="iota"><i>iota</i><par n="hale__n"/></e>
     <e lm="ipu"><i>ipu</i><par n="hale__n"/></e>
     <e lm="iwi"><i>iwi</i><par n="hale__n"/></e>
+    <e lm="ka'a"><i>ka'a</i><par n="hale__n"/></e>
+    <e lm="ka'aka"><i>ka'aka</i><par n="hale__n"/></e>
     <e lm="kahakai"><i>kahakai</i><par n="hale__n"/></e>
     <e lm="kahako"><i>kahako</i><par n="hale__n"/></e>
     <e lm="kahaone"><i>kahaone</i><par n="hale__n"/></e>
@@ -232,47 +336,309 @@
     <e lm="kahiko"><i>kahiko</i><par n="hale__n"/></e>
     <e lm="kahuna"><i>kahuna</i><par n="hale__n"/></e>
     <e lm="kai"><i>kai</i><par n="hale__n"/></e>
+    <e lm="kai e'e"><i>kai<b/>e'e</i><par n="hale__n"/></e>
     <e lm="kaikamahine"><i>kaikamahine</i><par n="hale__n"/></e>
     <e lm="kaimana"><i>kaimana</i><par n="hale__n"/></e>
     <e lm="kainui"><i>kainui</i><par n="hale__n"/></e>
+    <e lm="kakahiaka"><i>kakahiaka</i><par n="hale__n"/></e>
+    <e lm="kakalina"><i>kakalina</i><par n="hale__n"/></e>
+    <e lm="kala"><i>kala</i><par n="hale__n"/></e>
+    <e lm="kalaikulohea"><i>kalaikulohea</i><par n="hale__n"/></e>
+    <e lm="kalaimeaola"><i>kalaimeaola</i><par n="hale__n"/></e>
+    <e lm="kalaimeaolahune"><i>kalaimeaolahune</i><par n="hale__n"/></e>
+    <e lm="kalapuna"><i>kalapuna</i><par n="hale__n"/></e>
+    <e lm="kalikimaka"><i>kalikimaka</i><par n="hale__n"/></e>
+    <e lm="kalo"><i>kalo</i><par n="hale__n"/></e>
+    <e lm="kama'aina"><i>kama'aina</i><par n="hale__n"/></e>
+    <e lm="kamakuaka"><i>kamakuaka</i><par n="hale__n"/></e>
+    <e lm="kamepiula"><i>kamepiula</i><par n="hale__n"/></e>
+    <e lm="kanaka"><i>kanaka</i><par n="hale__n"/></e>
+    <e lm="kanaluna"><i>kanaluna</i><par n="hale__n"/></e>
     <e lm="kane"><i>kane</i><par n="hale__n"/></e>
+    <e lm="kani"><i>kani</i><par n="hale__n"/></e>
+    <e lm="kapa"><i>kapa</i><par n="hale__n"/></e>
+    <e lm="kapikala"><i>kapikala</i><par n="hale__n"/></e>
+    <e lm="kapu"><i>kapu</i><par n="hale__n"/></e>
+    <e lm="kau"><i>kau</i><par n="hale__n"/></e>
+    <e lm="kaua"><i>kaua</i><par n="hale__n"/></e>
+    <e lm="kaumaha"><i>kaumaha</i><par n="hale__n"/></e>
+    <e lm="kaumoku'aina"><i>kaumoku'aina</i><par n="hale__n"/></e>
+    <e lm="ke'oke'o"><i>ke'oke'o</i><par n="hale__n"/></e>
+    <e lm="ke"><i>ke</i><par n="hale__n"/></e>
+    <e lm="keakea"><i>keakea</i><par n="hale__n"/></e>
     <e lm="keiki"><i>keiki</i><par n="hale__n"/></e>
+    <e lm="keiki kane"><i>keiki<b/>kane</i><par n="hale__n"/></e>
+    <e lm="kenekoa"><i>kenekoa</i><par n="hale__n"/></e>
+    <e lm="Kepani"><i>Kepani</i><par n="hale__n"/></e>
+    <e lm="ki'i"><i>ki'i</i><par n="hale__n"/></e>
     <e lm="ki"><i>ki</i><par n="hale__n"/></e>
+    <e lm="kiele"><i>kiele</i><par n="hale__n"/></e>
+    <e lm="kini"><i>kini</i><par n="hale__n"/></e>
     <e lm="kino"><i>kino</i><par n="hale__n"/></e>
+    <e lm="kio"><i>kio</i><par n="hale__n"/></e>
+    <e lm="ko"><i>ko</i><par n="hale__n"/></e>
+    <e lm="koa"><i>koa</i><par n="hale__n"/></e>
+    <e lm="kohe"><i>kohe</i><par n="hale__n"/></e>
+    <e lm="koko"><i>koko</i><par n="hale__n"/></e>
+    <e lm="kokua"><i>kokua</i><par n="hale__n"/></e>
+    <e lm="komo"><i>komo</i><par n="hale__n"/></e>
+    <e lm="komohana"><i>komohana</i><par n="hale__n"/></e>
+    <e lm="kono"><i>kono</i><par n="hale__n"/></e>
+    <e lm="kopa'a"><i>kopa'a</i><par n="hale__n"/></e>
+    <e lm="kopa"><i>kopa</i><par n="hale__n"/></e>
+    <e lm="kua"><i>kua</i><par n="hale__n"/></e>
+    <e lm="kuahiwi"><i>kuahiwi</i><par n="hale__n"/></e>
+    <e lm="kuene"><i>kuene</i><par n="hale__n"/></e>
+    <e lm="kuionoko"><i>kuionoko</i><par n="hale__n"/></e>
+    <e lm="kukae"><i>kukae</i><par n="hale__n"/></e>
+    <e lm="kukaepele"><i>kukaepele</i><par n="hale__n"/></e>
+    <e lm="kukini"><i>kukini</i><par n="hale__n"/></e>
+    <e lm="kukui"><i>kukui</i><par n="hale__n"/></e>
+    <e lm="kukuku"><i>kukuku</i><par n="hale__n"/></e>
     <e lm="kula"><i>kula</i><par n="hale__n"/></e>
-    <e lm="kula"><i>kula</i><par n="hale__n"/></e>
+    <e lm="kulanakauhale"><i>kulanakauhale</i><par n="hale__n"/></e>
+    <e lm="kuleana"><i>kuleana</i><par n="hale__n"/></e>
+    <e lm="kuli"><i>kuli</i><par n="hale__n"/></e>
+    <e lm="kumino"><i>kumino</i><par n="hale__n"/></e>
     <e lm="kumu"><i>kumu</i><par n="hale__n"/></e>
+    <e lm="kumula'au"><i>kumula'au</i><par n="hale__n"/></e>
+    <e lm="kuna"><i>kuna</i><par n="hale__n"/></e>
+    <e lm="kunanakauhale"><i>kunanakauhale</i><par n="hale__n"/></e>
+    <e lm="kupeleko"><i>kupeleko</i><par n="hale__n"/></e>
     <e lm="kupuna"><i>kupuna</i><par n="hale__n"/></e>
+    <e lm="la'au"><i>la'au</i><par n="hale__n"/></e>
+    <e lm="la"><i>la</i><par n="hale__n"/></e>
+    <e lm="la noa"><i>la<b/>noa</i><par n="hale__n"/></e>
+    <e lm="lae"><i>lae</i><par n="hale__n"/></e>
+    <e lm="lahui"><i>lahui</i><par n="hale__n"/></e>
+    <e lm="laka"><i>laka</i><par n="hale__n"/></e>
+    <e lm="lama"><i>lama</i><par n="hale__n"/></e>
+    <e lm="lana"><i>lana</i><par n="hale__n"/></e>
+    <e lm="lanai"><i>lanai</i><par n="hale__n"/></e>
+    <e lm="lani"><i>lani</i><par n="hale__n"/></e>
+    <e lm="lapu"><i>lapu</i><par n="hale__n"/></e>
+    <e lm="lapuwale"><i>lapuwale</i><par n="hale__n"/></e>
+    <e lm="lau"><i>lau</i><par n="hale__n"/></e>
+    <e lm="lauoho"><i>lauoho</i><par n="hale__n"/></e>
+    <e lm="lawai'a"><i>lawai'a</i><par n="hale__n"/></e>
+    <e lm="lawe"><i>lawe</i><par n="hale__n"/></e>
+    <e lm="lei"><i>lei</i><par n="hale__n"/></e>
+    <e lm="leka"><i>leka</i><par n="hale__n"/></e>
+    <e lm="lemu"><i>lemu</i><par n="hale__n"/></e>
+    <e lm="leo"><i>leo</i><par n="hale__n"/></e>
+    <e lm="lepelepe-o-hina"><i>lepelepe-o-hina</i><par n="hale__n"/></e>
+    <e lm="liha"><i>liha</i><par n="hale__n"/></e>
+    <e lm="liliko'i"><i>liliko'i</i><par n="hale__n"/></e>
+    <e lm="lima"><i>lima</i><par n="hale__n"/></e>
+    <e lm="limu"><i>limu</i><par n="hale__n"/></e>
+    <e lm="lio"><i>lio</i><par n="hale__n"/></e>
+    <e lm="liona"><i>liona</i><par n="hale__n"/></e>
+    <e lm="loa"><i>loa</i><par n="hale__n"/></e>
+    <e lm="loke"><i>loke</i><par n="hale__n"/></e>
+    <e lm="loko"><i>loko</i><par n="hale__n"/></e>
+    <e lm="lokoino"><i>lokoino</i><par n="hale__n"/></e>
     <e lm="lole"><i>lole</i><par n="hale__n"/></e>
+    <e lm="lole lepo"><i>lole<b/>lepo</i><par n="hale__n"/></e>
+    <e lm="lolouila"><i>lolouila</i><par n="hale__n"/></e>
+    <e lm="lono"><i>lono</i><par n="hale__n"/></e>
+    <e lm="loukuaka"><i>loukuaka</i><par n="hale__n"/></e>
+    <e lm="lua"><i>lua</i><par n="hale__n"/></e>
+    <e lm="luahine"><i>luahine</i><par n="hale__n"/></e>
     <e lm="lumi"><i>lumi</i><par n="hale__n"/></e>
+    <e lm="lumi"><i>lumi</i><par n="hale__n"/></e>
+    <e lm="ma'a"><i>ma'a</i><par n="hale__n"/></e>
+    <e lm="mahalo"><i>mahalo</i><par n="hale__n"/></e>
+    <e lm="mahana"><i>mahana</i><par n="hale__n"/></e>
+    <e lm="mahina"><i>mahina</i><par n="hale__n"/></e>
+    <e lm="mai'a"><i>mai'a</i><par n="hale__n"/></e>
+    <e lm="maika'i"><i>maika'i</i><par n="hale__n"/></e>
+    <e lm="maka'u"><i>maka'u</i><par n="hale__n"/></e>
+    <e lm="maka"><i>maka</i><par n="hale__n"/></e>
+    <e lm="makahiki"><i>makahiki</i><par n="hale__n"/></e>
+    <e lm="makana"><i>makana</i><par n="hale__n"/></e>
+    <e lm="makani"><i>makani</i><par n="hale__n"/></e>
+    <e lm="make"><i>make</i><par n="hale__n"/></e>
+    <e lm="makua"><i>makua</i><par n="hale__n"/></e>
+    <e lm="makua kane"><i>makua<b/>kane</i><par n="hale__n"/></e>
+    <e lm="makuahine"><i>makuahine</i><par n="hale__n"/></e>
+    <e lm="malama"><i>malama</i><par n="hale__n"/></e>
+    <e lm="malamalama"><i>malamalama</i><par n="hale__n"/></e>
+    <e lm="malu"><i>malu</i><par n="hale__n"/></e>
+    <e lm="maluhia"><i>maluhia</i><par n="hale__n"/></e>
+    <e lm="mana'o'i'o"><i>mana'o'i'o</i><par n="hale__n"/></e>
+    <e lm="mana'o"><i>mana'o</i><par n="hale__n"/></e>
+    <e lm="mana'olana"><i>mana'olana</i><par n="hale__n"/></e>
+    <e lm="mana"><i>mana</i><par n="hale__n"/></e>
+    <e lm="manamana"><i>manamana</i><par n="hale__n"/></e>
+    <e lm="manawa"><i>manawa</i><par n="hale__n"/></e>
+    <e lm="mano"><i>mano</i><par n="hale__n"/></e>
     <e lm="manu"><i>manu</i><par n="hale__n"/></e>
+    <e lm="manu paloke"><i>manu<b/>paloke</i><par n="hale__n"/></e>
+    <e lm="mau'u"><i>mau'u</i><par n="hale__n"/></e>
+    <e lm="mauna"><i>mauna</i><par n="hale__n"/></e>
+    <e lm="mea inu"><i>mea inu</i><par n="hale__n"/></e>
     <e lm="mea"><i>mea</i><par n="hale__n"/></e>
+    <e lm="mele"><i>mele</i><par n="hale__n"/></e>
+    <e lm="meli"><i>meli</i><par n="hale__n"/></e>
+    <e lm="mikanele"><i>mikanele</i><par n="hale__n"/></e>
+    <e lm="mimi"><i>mimi</i><par n="hale__n"/></e>
+    <e lm="mo'i"><i>mo'i</i><par n="hale__n"/></e>
+    <e lm="mo'o"><i>mo'o</i><par n="hale__n"/></e>
+    <e lm="mo'opuna"><i>mo'opuna</i><par n="hale__n"/></e>
+    <e lm="moa"><i>moa</i><par n="hale__n"/></e>
+    <e lm="moana"><i>moana</i><par n="hale__n"/></e>
+    <e lm="moena"><i>moena</i><par n="hale__n"/></e>
+    <e lm="moku'aina"><i>moku'aina</i><par n="hale__n"/></e>
+    <e lm="moku"><i>moku</i><par n="hale__n"/></e>
+    <e lm="mokuhonua"><i>mokuhonua</i><par n="hale__n"/></e>
+    <e lm="mokupuni"><i>mokupuni</i><par n="hale__n"/></e>
+    <e lm="momi"><i>momi</i><par n="hale__n"/></e>
+    <e lm="monako"><i>monako</i><par n="hale__n"/></e>
+    <e lm="mu'umu'u"><i>mu'umu'u</i><par n="hale__n"/></e>
+    <e lm="mu"><i>mu</i><par n="hale__n"/></e>
+    <e lm="mua"><i>mua</i><par n="hale__n"/></e>
+    <e lm="na'au"><i>na'au</i><par n="hale__n"/></e>
+    <e lm="na'okoko"><i>na'okoko</i><par n="hale__n"/></e>
+    <e lm="naheka"><i>naheka</i><par n="hale__n"/></e>
+    <e lm="nalo meli"><i>nalo meli</i><par n="hale__n"/></e>
+    <e lm="nalo"><i>nalo</i><par n="hale__n"/></e>
+    <e lm="nalu"><i>nalu</i><par n="hale__n"/></e>
+    <e lm="nana"><i>nana</i><par n="hale__n"/></e>
+    <e lm="nanahana"><i>nanahana</i><par n="hale__n"/></e>
+    <e lm="nananana"><i>nananana</i><par n="hale__n"/></e>
+    <e lm="nanuka"><i>nanuka</i><par n="hale__n"/></e>
+    <e lm="naonao"><i>naonao</i><par n="hale__n"/></e>
+    <e lm="nene"><i>nene</i><par n="hale__n"/></e>
+    <e lm="niho"><i>niho</i><par n="hale__n"/></e>
+    <e lm="ninau"><i>ninau</i><par n="hale__n"/></e>
+    <e lm="niu"><i>niu</i><par n="hale__n"/></e>
+    <e lm="no'ono'o"><i>no'ono'o</i><par n="hale__n"/></e>
+    <e lm="noa"><i>noa</i><par n="hale__n"/></e>
     <e lm="noho"><i>noho</i><par n="hale__n"/></e>
+    <e lm="noi"><i>noi</i><par n="hale__n"/></e>
+    <e lm="noni"><i>noni</i><par n="hale__n"/></e>
+    <e lm="nu"><i>nu</i><par n="hale__n"/></e>
+    <e lm="nui"><i>nui</i><par n="hale__n"/></e>
+    <e lm="nuku"><i>nuku</i><par n="hale__n"/></e>
+    <e lm="nunu"><i>nunu</i><par n="hale__n"/></e>
+    <e lm="ola"><i>ola</i><par n="hale__n"/></e>
+    <e lm="oli"><i>oli</i><par n="hale__n"/></e>
+    <e lm="one"><i>one</i><par n="hale__n"/></e>
+    <e lm="pa'a"><i>pa'a</i><par n="hale__n"/></e>
+    <e lm="pa'akai"><i>pa'akai</i><par n="hale__n"/></e>
+    <e lm="pa'ina"><i>pa'ina</i><par n="hale__n"/></e>
+    <e lm="pakaua"><i>pakaua</i><par n="hale__n"/></e>
+    <e lm="Pake"><i>Pake</i><par n="hale__n"/></e>
+    <e lm="palaoa"><i>palaoa</i><par n="hale__n"/></e>
+    <e lm="palapala"><i>palapala</i><par n="hale__n"/></e>
+    <e lm="pali"><i>pali</i><par n="hale__n"/></e>
+    <e lm="paloke"><i>paloke</i><par n="hale__n"/></e>
+    <e lm="panako"><i>panako</i><par n="hale__n"/></e>
+    <e lm="pane"><i>pane</i><par n="hale__n"/></e>
+    <e lm="paniolo"><i>paniolo</i><par n="hale__n"/></e>
+    <e lm="papalina"><i>papalina</i><par n="hale__n"/></e>
+    <e lm="pe'a"><i>pe'a</i><par n="hale__n"/></e>
+    <e lm="pelapela"><i>pelapela</i><par n="hale__n"/></e>
     <e lm="peni"><i>peni</i><par n="hale__n"/></e>
     <e lm="penikala"><i>penikala</i><par n="hale__n"/></e>
+    <e lm="penikala"><i>penikala</i><par n="hale__n"/></e>
     <e lm="pepa"><i>pepa</i><par n="hale__n"/></e>
+    <e lm="pepe"><i>pepe</i><par n="hale__n"/></e>
+    <e lm="pepeiao"><i>pepeiao</i><par n="hale__n"/></e>
+    <e lm="pi"><i>pi</i><par n="hale__n"/></e>
+    <e lm="pia"><i>pia</i><par n="hale__n"/></e>
+    <e lm="piha"><i>piha</i><par n="hale__n"/></e>
+    <e lm="pikake"><i>pikake</i><par n="hale__n"/></e>
+    <e lm="pilau"><i>pilau</i><par n="hale__n"/></e>
+    <e lm="pili hoaloha"><i>pili<b/>hoaloha</i><par n="hale__n"/></e>
+    <e lm="pilikia"><i>pilikia</i><par n="hale__n"/></e>
+    <e lm="Pilipino"><i>Pilipino</i><par n="hale__n"/></e>
+    <e lm="pineki"><i>pineki</i><par n="hale__n"/></e>
+    <e lm="pipi"><i>pipi</i><par n="hale__n"/></e>
+    <e lm="Po'aha"><i>Po'aha</i><par n="hale__n"/></e>
+    <e lm="Po'akahi"><i>Po'akahi</i><par n="hale__n"/></e>
+    <e lm="Po'akolu"><i>Po'akolu</i><par n="hale__n"/></e>
+    <e lm="Po'alima"><i>Po'alima</i><par n="hale__n"/></e>
+    <e lm="Po'alua"><i>Po'alua</i><par n="hale__n"/></e>
+    <e lm="Po'aono"><i>Po'aono</i><par n="hale__n"/></e>
+    <e lm="po'e"><i>po'e</i><par n="hale__n"/></e>
+    <e lm="po'o"><i>po'o</i><par n="hale__n"/></e>
+    <e lm="po'ohiwi"><i>po'ohiwi</i><par n="hale__n"/></e>
+    <e lm="po"><i>po</i><par n="hale__n"/></e>
+    <e lm="poe"><i>poe</i><par n="hale__n"/></e>
     <e lm="pohaku"><i>pohaku</i><par n="hale__n"/></e>
+    <e lm="pohue"><i>pohue</i><par n="hale__n"/></e>
+    <e lm="poi"><i>poi</i><par n="hale__n"/></e>
+    <e lm="pokole"><i>pokole</i><par n="hale__n"/></e>
+    <e lm="poloka"><i>poloka</i><par n="hale__n"/></e>
+    <e lm="ponalo"><i>ponalo</i><par n="hale__n"/></e>
+    <e lm="pono'i"><i>pono'i</i><par n="hale__n"/></e>
+    <e lm="pono"><i>pono</i><par n="hale__n"/></e>
+    <e lm="popoki"><i>popoki</i><par n="hale__n"/></e>
+    <e lm="pounamu"><i>pounamu</i><par n="hale__n"/></e>
+    <e lm="pu'uwai"><i>pu'uwai</i><par n="hale__n"/></e>
+    <e lm="pu"><i>pu</i><par n="hale__n"/></e>
+    <e lm="pu aloha"><i>pu<b/>aloha</i><par n="hale__n"/></e>
+    <e lm="pua'a"><i>pua'a</i><par n="hale__n"/></e>
     <e lm="pua"><i>pua</i><par n="hale__n"/></e>
+    <e lm="pueo"><i>pueo</i><par n="hale__n"/></e>
+    <e lm="puhi"><i>puhi</i><par n="hale__n"/></e>
+    <e lm="puka"><i>puka</i><par n="hale__n"/></e>
     <e lm="puke"><i>puke</i><par n="hale__n"/></e>
+    <e lm="Pukiki"><i>Pukiki</i><par n="hale__n"/></e>
     <e lm="pule"><i>pule</i><par n="hale__n"/></e>
+    <e lm="puna"><i>puna</i><par n="hale__n"/></e>
+    <e lm="pupu"><i>pupu</i><par n="hale__n"/></e>
+    <e lm="shibai"><i>shibai</i><par n="hale__n"/></e>
+    <e lm="tutu"><i>tutu</i><par n="hale__n"/></e>
+    <e lm="u'i"><i>u'i</i><par n="hale__n"/></e>
+    <e lm="u"><i>u</i><par n="hale__n"/></e>
+    <e lm="ua"><i>ua</i><par n="hale__n"/></e>
+    <e lm="uahi"><i>uahi</i><par n="hale__n"/></e>
+    <e lm="uhi"><i>uhi</i><par n="hale__n"/></e>
+    <e lm="uila"><i>uila</i><par n="hale__n"/></e>
+    <e lm="uka"><i>uka</i><par n="hale__n"/></e>
+    <e lm="ula"><i>ula</i><par n="hale__n"/></e>
+    <e lm="ulu"><i>ulu</i><par n="hale__n"/></e>
+    <e lm="ulu la'au"><i>ulu<b/>la'au</i><par n="hale__n"/></e>
+    <e lm="waha"><i>waha</i><par n="hale__n"/></e>
     <e lm="wahine"><i>wahine</i><par n="hale__n"/></e>
+    <e lm="wai"><i>wai</i><par n="hale__n"/></e>
+    <e lm="waina"><i>waina</i><par n="hale__n"/></e>
+    <e lm="waiu"><i>waiu</i><par n="hale__n"/></e>
+    <e lm="waiupaka"><i>waiupaka</i><par n="hale__n"/></e>
     <e lm="waiwai"><i>waiwai</i><par n="hale__n"/></e>
+    <e lm="wale"><i>wale</i><par n="hale__n"/></e>
+    <e lm="wauke"><i>wauke</i><par n="hale__n"/></e>
+    <e lm="wawae"><i>wawae</i><par n="hale__n"/></e>
+    <e lm="wi"><i>wi</i><par n="hale__n"/></e>
+
 	  
 	<!-- SECTION: Adjectives -->
 	  
+    <e lm="'okina"><i>'okina</i><par n="akamai__adj"/></e>
     <e lm="'ono"><i>'ono</i><par n="akamai__adj"/></e>
+    <e lm="a'ole"><i>a'ole</i><par n="akamai__adj"/></e>
     <e lm="akamai"><i>akamai</i><par n="akamai__adj"/></e>
+    <e lm="akeakamai"><i>akeakamai</i><par n="akamai__adj"/></e>
+    <e lm="akua"><i>akua</i><par n="akamai__adj"/></e>
+    <e lm="ali'i"><i>ali'i</i><par n="akamai__adj"/></e>
     <e lm="anuanu"><i>anuanu</i><par n="akamai__adj"/></e>
     <e lm="hau'oli"><i>hau'oli</i><par n="akamai__adj"/></e>
     <e lm="hou"><i>hou</i><par n="akamai__adj"/></e>
     <e lm="ikaika"><i>ikaika</i><par n="akamai__adj"/></e>
     <e lm="kahiko"><i>kahiko</i><par n="akamai__adj"/></e>
     <e lm="kaumaha"><i>kaumaha</i><par n="akamai__adj"/></e>
+    <e lm="lani"><i>lani</i><par n="akamai__adj"/></e>
     <e lm="li'ili'i"><i>li'ili'i</i><par n="akamai__adj"/></e>
+    <e lm="like"><i>like</i><par n="akamai__adj"/></e>
     <e lm="maika'i"><i>maika'i</i><par n="akamai__adj"/></e>
+    <e lm="ma'ila"><i>ma'ila</i><par n="akamai__adj"/></e>
     <e lm="maluhiluhi"><i>maluhiluhi</i><par n="akamai__adj"/></e>
+    <e lm="mu"><i>mu</i><par n="akamai__adj"/></e>
     <e lm="nani"><i>nani</i><par n="akamai__adj"/></e>
     <e lm="nui"><i>nui</i><par n="akamai__adj"/></e>
+    <e lm="pa'a"><i>pa'a</i><par n="akamai__adj"/></e>
     <e lm="pololi"><i>pololi</i><par n="akamai__adj"/></e>
     <e lm="wela"><i>wela</i><par n="akamai__adj"/></e>
 	  
