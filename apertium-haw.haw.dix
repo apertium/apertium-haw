@@ -106,17 +106,17 @@
     <pardef n="hale__n">
 		<e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
     </pardef>
-	  
+
 	<!-- Adjectives -->
 	<pardef n="akamai__adj">
       <e><p><l></l><r><s n="adj"/></r></p></e>
     </pardef>	  
-	  
+
 	<!-- Verbs -->
 	<pardef n="lohe__vblex">
 	  <e><p><l></l><r><s n="vblex"/></r></p></e>
     </pardef>
-		
+
 	<pardef n="__vblex_pp">
       <e><p><l></l><r><s n="vblex"/><s n="pp"/></r></p></e>
     </pardef>
@@ -133,6 +133,16 @@
     </pardef>	  
 
 	<!-- Determiners -->
+    <pardef n="ke__det">
+      <e><p><l></l><r><s n="det"/><s n="def"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="det"/><s n="def"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="/ka__det">
+      <e><p><l>ka</l><r>ka<s n="det"/><s n="def"/><s n="sg"/></r></p></e>
+      <e><p><l>na</l><r>ka<s n="det"/><s n="def"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="ke/ia__det">
       <e><p><l>ia</l><r>ia<s n="det"/><s n="dem"/><s n="sg"/><s n="p1"/></r></p></e>
       <e><p><l>na</l><r>ia<s n="det"/><s n="dem"/><s n="sg"/><s n="p2"/></r></p></e>
@@ -154,9 +164,14 @@
   	</pardefs>
 	
   <section id="main" type="standard">
+
+	<!-- SECTION: Derterminers -->
+
+    <e lm="ka"><i></i><par n="/ka__det"/></e>
+    <e lm="ke"><i>ke</i><par n="ke__det"/></e>
+    <e lm="keia"><i>ke</i><par n="ke/ia__det"/></e>
 	  
 	<!-- SECTION: Nouns -->
-	  
 
     <e lm="ʻaʻa"><i>ʻaʻa</i><par n="hale__n"/></e>
     <e lm="ʻaʻi"><i>ʻaʻi</i><par n="hale__n"/></e>
@@ -785,9 +800,7 @@
     <e lm="makemake"><p><l>e<b/>makemake</l><r>makemake</r></p><par n="__vblex_inf"/></e>
     <e lm="makemake"><p><l>i<b/>makemake</l><r>makemake</r></p><par n="__vblex_pp"/></e>
     <e lm="makemake"><p><l>ke<b/>makemake<b/>nei</l><r>makemake</r></p><par n="__vblex_pres"/></e>  
-	  
-	<!-- SECTION: Derterminers -->	 
-    <e lm="keia"><i>ke</i><par n="ke/ia__det"/></e>
+
 	  
 	<!-- SECTION: Prepositions -->	 
     <e lm="a"><i>a</i><par n="me__pr"/></e>	
@@ -797,7 +810,6 @@
     <e lm="i"><i>i</i><par n="me__pr"/></e>
     <e lm="ka"><i>ka</i><par n="me__pr"/></e>	  
     <e lm="ko"><i>ko</i><par n="me__pr"/></e>	  
-    <e lm="a"><i>a</i><par n="me__pr"/></e>	 
     <e lm="ma"><i>ma</i><par n="me__pr"/></e>	  
     <e lm="mai"><i>mai</i><par n="me__pr"/></e>	  
     <e lm="me"><i>me</i><par n="me__pr"/></e>	  
