@@ -141,36 +141,35 @@
     <pardef n="/ka__det">
       <e><p><l>ka</l><r>ka<s n="det"/><s n="def"/><s n="sg"/></r></p></e>
       <e><p><l>na</l><r>ka<s n="det"/><s n="def"/><s n="pl"/></r></p></e>
+      <e><p><l>ka</l><r>ka<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
     </pardef>
 
-    <pardef n="ke/ia__det">
-      <e><p><l>ia</l><r>ia<s n="det"/><s n="dem"/><s n="sg"/><s n="p1"/></r></p></e>
-      <e><p><l>na</l><r>ia<s n="det"/><s n="dem"/><s n="sg"/><s n="p2"/></r></p></e>
-      <e><p><l>la</l><r>ia<s n="det"/><s n="dem"/><s n="sg"/><s n="p3"/></r></p></e>
-      <e><p><l>ia<b/>mau</l><r>ia<s n="det"/><s n="dem"/><s n="pl"/><s n="p1"/></r></p></e>
-      <e><p><l>na<b/>mau</l><r>ia<s n="det"/><s n="dem"/><s n="pl"/><s n="p2"/></r></p></e>
-      <e><p><l>la<b/>mau</l><r>ia<s n="det"/><s n="dem"/><s n="pl"/><s n="p3"/></r></p></e>		
+    <pardef n="kei/a__det">
+      <e><p><l>a</l><r>a<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
+      <e><p><l>a<b/>mau</l><r>a<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
     </pardef>
-	  
+
 	<!-- Prepositions -->
 	<pardef n="me__pr">
       <e><p><l></l><r><s n="pr"/></r></p></e>
     </pardef>
-	  
+
 	<!-- Conjunctions -->
 	<pardef n="aka__cnjcoo">
       <e><p><l></l><r><s n="cnjcoo"/></r></p></e>
     </pardef>	  	  
   	</pardefs>
-	
+
   <section id="main" type="standard">
 
-	<!-- SECTION: Derterminers -->
+	<!-- SECTION: Determiners -->
 
     <e lm="ka"><i></i><par n="/ka__det"/></e>
     <e lm="ke"><i>ke</i><par n="ke__det"/></e>
-    <e lm="keia"><i>ke</i><par n="ke/ia__det"/></e>
-	  
+    <e lm="keia"><i>kei</i><par n="kei/a__det"/></e>
+    <e lm="kena"><i>ken</i><par n="kei/a__det"/></e>
+    <e lm="kela"><i>kel</i><par n="kei/a__det"/></e>
+
 	<!-- SECTION: Nouns -->
 
     <e lm="ʻaʻa"><i>ʻaʻa</i><par n="hale__n"/></e>
@@ -628,9 +627,9 @@
     <e lm="wawae"><i>wawae</i><par n="hale__n"/></e>
     <e lm="wi"><i>wi</i><par n="hale__n"/></e>
 
-	  
+
 	<!-- SECTION: Adjectives -->
-	  
+
     <e lm="ʻokina"><i>ʻokina</i><par n="akamai__adj"/></e>
     <e lm="ʻono"><i>ʻono</i><par n="akamai__adj"/></e>
     <e lm="aʻole"><i>aʻole</i><par n="akamai__adj"/></e>
@@ -656,9 +655,9 @@
     <e lm="paʻa"><i>paʻa</i><par n="akamai__adj"/></e>
     <e lm="pololi"><i>pololi</i><par n="akamai__adj"/></e>
     <e lm="wela"><i>wela</i><par n="akamai__adj"/></e>
-	  
+
 	<!-- SECTION: Verbs -->	
-	  
+
     <e lm="aho"><i>aho</i><par n="lohe__vblex"/></e>
     <e lm="aho"><p><l>e<b/>aho</l><r>aho</r></p><par n="__vblex_inf"/></e>
     <e lm="aho"><p><l>i<b/>aho</l><r>aho</r></p><par n="__vblex_pp"/></e>
@@ -801,7 +800,6 @@
     <e lm="makemake"><p><l>i<b/>makemake</l><r>makemake</r></p><par n="__vblex_pp"/></e>
     <e lm="makemake"><p><l>ke<b/>makemake<b/>nei</l><r>makemake</r></p><par n="__vblex_pres"/></e>  
 
-	  
 	<!-- SECTION: Prepositions -->	 
     <e lm="a"><i>a</i><par n="me__pr"/></e>	
     <e lm="aʻe"><i>aʻe</i><par n="me__pr"/></e>	  
@@ -816,7 +814,7 @@
     <e lm="na"><i>na</i><par n="me__pr"/></e>	  
     <e lm="no"><i>no</i><par n="me__pr"/></e>	  
     <e lm="o"><i>o</i><par n="me__pr"/></e>	  
-	  
+ 
 	<!-- SECTION: Conjunctions -->	 
     <e lm="a"><i>a</i><par n="aka__cnjcoo"/></e>	
     <e lm="aka"><i>aka</i><par n="aka__cnjcoo"/></e>	
