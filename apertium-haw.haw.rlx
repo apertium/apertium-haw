@@ -1,15 +1,29 @@
 # Firstly, we need to define what tags should be considered sentence delimiters. For this example, only full stop is set as delimiter.
 DELIMITERS = "<.>" ;
 
-# We can define sets for common tag clusters
-LIST Case = (n s) (n p) ; # A set that matches either a Noun Singular or a Noun Plural
+LIST N = n ;
+LIST Np = np ;
+LIST Prn = prn ;
+LIST Det = det ;
+LIST Have = vbhaver ;
+LIST Be = vbser ;
+LIST Adj = adj ;
+LIST Preadv = preadv ;
+LIST Adv = adv ;
+LIST Pr = pr ;
+LIST Ger = ger ;
+LIST Num = num ;
+LIST V = vblex vbser vaux vbmod vbhaver vbdo ;
+LIST Vblex = vblex ;
+LIST Vbser = vbser ;
+LIST Vbhaver = vbhaver ;
+LIST Vbdo = vbdo ;
+LIST Vbaux = vaux ;
+LIST Vbmod = vbmod ;
 
 SECTION
-# If there is a singular noun to the right, I cannot be a verb or noun.
-REMOVE (n) OR (v) IF (1 (n s)) ;
 
-# If there is a conjunction followed by a certain cohort of the same CASE as me, choose me.
-SELECT $$Case IF (1 (cnjcoo) LINK 1C $$Case) ;
+SELECT Prn IF (0 Det) (0 Prn) (-1 N) (-2 Det) ;
 
 # Resources:
 # http://visl.sdu.dk/cg3.html
