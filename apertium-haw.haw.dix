@@ -105,16 +105,14 @@
   <pardefs>
 
 	<!-- Determiners -->
-    <pardef n="ke__det">
-      <e><p><l></l><r><s n="det"/><s n="def"/><s n="sg"/></r></p></e>
-      <e><p><l></l><r><s n="det"/><s n="def"/><s n="pl"/></r></p></e>
-      <e><p><l></l><r><s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+    <pardef n="/ke__det">
+      <e><p><l>ke</l><r>ke<s n="det"/><s n="def"/><s n="sg"/></r></p></e>
+      <e><p><l>na</l><r>ke<s n="det"/><s n="def"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="/ka__det">
       <e><p><l>ka</l><r>ka<s n="det"/><s n="def"/><s n="sg"/></r></p></e>
       <e><p><l>na</l><r>ka<s n="det"/><s n="def"/><s n="pl"/></r></p></e>
-      <e><p><l>ka</l><r>ka<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
     </pardef>
 
     <pardef n="kei/a__det">
@@ -132,6 +130,7 @@
 	<!-- Nouns -->
     <pardef n="hale__n">
 		<e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
+		<e><p><l></l><r><s n="n"/><s n="pl"/></r></p></e>
     </pardef>
 
 	<!-- Adjectives -->
@@ -176,7 +175,7 @@
 	<!-- SECTION: Determiners -->
 
     <e lm="ka"><i></i><par n="/ka__det"/></e>
-    <e lm="ke"><i>ke</i><par n="ke__det"/></e>
+    <e lm="ke"><i></i><par n="/ke__det"/></e>
     <e lm="keia"><i>kei</i><par n="kei/a__det"/></e>
     <e lm="kena"><i>ken</i><par n="kei/a__det"/></e>
     <e lm="kela"><i>kel</i><par n="kei/a__det"/></e>
