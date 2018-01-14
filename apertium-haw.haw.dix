@@ -129,7 +129,6 @@
 	<!-- Nouns -->
     <pardef n="hale__n">
 		<e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
-		<e><p><l></l><r><s n="n"/><s n="pl"/></r></p></e>
     </pardef>
 
 	<!-- Adjectives -->
