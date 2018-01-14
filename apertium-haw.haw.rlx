@@ -26,6 +26,7 @@ SECTION
 SELECT Prn IF (0 Det) (0 Prn) (-1 N) (-2 Det) ;
 SELECT Det IF (0 Det) (0 Pr) (-1 Adj) (1 N) ;
 SELECT Det IF (0 Det) (0 Pr) (1 N) (2 Prn) ;
+SELECT Adj IF (0 N) (0 Adj) (1 Det) (2 N) ;
 
 # Resources:
 # http://visl.sdu.dk/cg3.html
