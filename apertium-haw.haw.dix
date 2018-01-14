@@ -50,7 +50,6 @@
     <sdef n="sg"              c="Singular"/>
     <sdef n="du"              c="Dual"/>
     <sdef n="pl"              c="Plural"/>
-    <sdef n="sp"              c="Singular / plural"/>
 
     <sdef n="ind"             c="Indefinite"/>
     <sdef n="def"             c="Definite"/>
