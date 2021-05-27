@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Hawaiian], [0.1.0], [ryan.andrew.chi@gmail.com], [apertium-haw], [http://wiki.apertium.org/wiki/Apertium-haw])
+AC_INIT([Apertium Hawaiian], [0.1.0], [ryan.andrew.chi@gmail.com], [apertium-haw], [https://wiki.apertium.org/wiki/Apertium-haw])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
