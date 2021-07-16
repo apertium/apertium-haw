@@ -1,0 +1,10 @@
+[154klfggvhE8#0] ^nani/nani<adj>$ ^ka/ka<pr>/ka<det><def><sg>$ ^wahine/wahine<n>$
+[/154klfggvhE8]
+[1s_c66J9egbU#0] ^ke/ke<n>/ke<det><def><sg>$ ^heʻe/heʻe<n>$ ^kela/kela<det><dem><sg>/kela<prn><dem><mf><sg>/kela<prn><dem><mf><pl>$
+[/1s_c66J9egbU]
+[7i_aaZGTyk72#0] ^nui/nui<n>/nui<adj>$ ^ka/ka<pr>/ka<det><def><sg>$ ^hale/hale<n>$
+[/7i_aaZGTyk72]
+[87v7yCFvNiII#0] ^akamai/akamai<n>/akamai<adj>$ ^ke/ke<n>/ke<det><def><sg>$ ^keiki/keiki<n>$
+[/87v7yCFvNiII]
+[BsEgDt8VlTIH#0] ^ikaika/ikaika<adj>$ ^ke/ke<n>/ke<det><def><sg>$ ^kane/kane<n>$
+[/BsEgDt8VlTIH]

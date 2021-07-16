@@ -1,0 +1,6 @@
+# from https://wiki.apertium.org/wiki/Hawaiian_and_English/Regression_Tests
+nani ka wahine
+akamai ke keiki
+ikaika ke kane
+nui ka hale
+ke heʻe kela
